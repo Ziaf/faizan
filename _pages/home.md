@@ -1,22 +1,22 @@
 ---
 layout: single
-title: "Lena Strobl"
+title: "Faizanuddin Ansari"
 permalink: /
 ---
 
 <p style="font-size: 1rem; color: #666; margin-top: -0.5rem;">
-  <strong>Ph.D. Student</strong>, <em>she/her</em><br>
-  <code>lenas[æt]cs.umu.se</code>
+  <strong>Ph.D. Student</strong>, <em>he/him</em><br>
+  <code>faizanuddin_r[æt]isi.cal.ac.in</code>
 </p>
 
 <div style="display:flex;align-items:center;justify-content:space-between;">
   <div style="flex:2;">
-    <p>I'm a <strong>Ph.D. student</strong> affiliated with the <a href="https://www.umu.se/en/research/groups/foundations-of-language-processing/">Foundations of Language Processing research group</a> at Umeå University, focusing on neural network interpretability through formal language theory.</p>
+    <p>I'm a <strong>Ph.D. student</strong> affiliated with the <a href="https://www.isical.ac.in/">Indian Statistical Institute, Kolkata</a> </p>
     <p>I hosted and organized the <a href="https://flann.super.site/">FLaNN seminars</a>, an online seminar series on Formal Languages and Neural Networks.</p>
   </div>
 
   <div style="flex:1;text-align:right;">
-    <img src="/assets/images/lena-profile.png" alt="Lena Strobl" style="border-radius:8px;width:200px;height:200px;object-fit:cover;">
+    <img src="assets/images/avtar.jpg" alt="faizan" style="border-radius:8px;width:200px;height:200px;object-fit:cover;">
   </div>
 </div>
 
