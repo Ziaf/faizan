@@ -11,7 +11,7 @@ permalink: /
 
 <div style="display:flex;align-items:center;justify-content:space-between;">
   <p>
-                  <a href="mailto:faizanansari541@gmail.com"><img src="assets/envelope-solid.svg" alt="Icon" class="icon">Email</a> <!--&nbsp/&nbsp-->
+                  <a href="mailto:faizanansari541@gmail.com"><img src="assets/envelope-solid.svg" alt="Icon" class="icon">Email</a> &nbsp|&nbsp
                   <a href="assets/cv.pdf"><img src="assets/file-solid.svg" alt="Icon" class="icon">CV</a> &nbsp|&nbsp
   	      <a href="https://github.com/ziaf/"><img src="assets/github.svg" alt="Icon" class="icon">Github</a> 
                   <a href="https://scholar.google.com/"><img src="assets/google-scholar.svg" alt="Icon" class="icon">Google Scholar</a> &nbsp|&nbsp
