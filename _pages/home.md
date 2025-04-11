@@ -21,7 +21,7 @@ permalink: /
 </div>
 
 ---
-
+<!--
 <div style="display:flex; gap: 2rem;">
 
 <div style="flex:1;">
@@ -67,3 +67,4 @@ permalink: /
   <li>Neural Networks</li>
   <li>Computational Linguistics</li>
 </ul>
+-->
