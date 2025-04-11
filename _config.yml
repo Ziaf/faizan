@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Faizanuddin Ansari"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "فَإِنَّ مَعَ العُسرِ يُسرًا - So, surely with hardship comes ease"
 name                     : "Faizan"
 description              : "Ph.D. Student"
 # url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
