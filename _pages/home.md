@@ -11,16 +11,16 @@ permalink: /
 
 <div style="display:flex;align-items:center;justify-content:space-between;">
   <p>
-                  &nbsp|&nbsp <a href="mailto:faizanansari541@gmail.com"><img src="assets/envelope-solid.svg" alt="Icon" class="icon">Email</a> &nbsp|&nbsp <!--&nbsp/&nbsp-->
-                  &nbsp|&nbsp <a href="assets/cv.pdf"><img src="assets/file-solid.svg" alt="Icon" class="icon">CV</a> &nbsp|&nbsp
-  	      <a href="https://github.com/ziaf/"><img src="assets/github.svg" alt="Icon" class="icon">Github</a> &nbsp|&nbsp 
-                  &nbsp|&nbsp <a href="https://scholar.google.com/"><img src="assets/google-scholar.svg" alt="Icon" class="icon">Google Scholar</a> &nbsp|&nbsp
+                  <a href="mailto:faizanansari541@gmail.com"><img src="assets/envelope-solid.svg" alt="Icon" class="icon">Email</a> <!--&nbsp/&nbsp-->
+                  <a href="assets/cv.pdf"><img src="assets/file-solid.svg" alt="Icon" class="icon">CV</a> &nbsp|&nbsp
+  	      <a href="https://github.com/ziaf/"><img src="assets/github.svg" alt="Icon" class="icon">Github</a> 
+                  <a href="https://scholar.google.com/"><img src="assets/google-scholar.svg" alt="Icon" class="icon">Google Scholar</a> &nbsp|&nbsp
   		<a href="https://dblp.org/pid/270/2011.html"><img src="assets/dblp.svg" alt="Icon" class="icon">dblp</a> &nbsp|&nbsp
-  		<a href="https://orcid.org/0000-0001-6364-8654"><img src="assets/orcid.svg" alt="Icon" class="icon">Orcid</a> &nbsp|&nbsp 
-  <!-- 		&nbsp|&nbsp <a href="https://in.pinterest.com/siladittya/"><img src="assets/pinterest.svg" alt="Icon" class="icon">Pinterest</a> &nbsp | &nbsp -->
-  	      &nbsp|&nbsp <a href="https://twitter.com/sadimanna"><img src="assets/twitter.svg" alt="Icon" class="icon">Twitter</a> &nbsp|&nbsp
-  		<a href="https://medium.com/@mannasiladittya"><img src="assets/medium (1).svg" alt="Icon" class="icon">Medium</a> &nbsp|&nbsp 
-  <!-- 		&nbsp|&nbsp <a href="https://twitter.com/sadimanna"><img src="assets/twitter.svg" alt="Icon" class="icon">Twitter</a> &nbsp|&nbsp -->
+  		<a href="https://orcid.org/0000-0001-6364-8654"><img src="assets/orcid.svg" alt="Icon" class="icon">Orcid</a> 
+  <!-- 		<a href="https://in.pinterest.com/siladittya/"><img src="assets/pinterest.svg" alt="Icon" class="icon">Pinterest</a> &nbsp | &nbsp -->
+  	      <a href="https://twitter.com/sadimanna"><img src="assets/twitter.svg" alt="Icon" class="icon">Twitter</a> &nbsp|&nbsp
+  		<a href="https://medium.com/@mannasiladittya"><img src="assets/medium (1).svg" alt="Icon" class="icon">Medium</a> 
+  <!-- 		<a href="https://twitter.com/sadimanna"><img src="assets/twitter.svg" alt="Icon" class="icon">Twitter</a> -->
                 </p>
 
 </div>
