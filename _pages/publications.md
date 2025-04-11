@@ -22,35 +22,35 @@ Below is a list of my publications.
       <td><img src="/assets/publications/transformer_function_eval.jpg" onerror="this.src='error.jpg';this.onerror='';" width="200"></td>
       <td>Concise One-Layer Transformers Can Do Function Evaluation (Sometimes)</td>
       <td><strong>Lena Strobl</strong>, Dana Angluin, Robert Frank</td>
-      <td><a href="https://arxiv.org/abs/2503.22076">arXiv</a></td>
+      <td><a href="https://arxiv.org/abs/2503.22076">&#128462;</a></td>
     </tr>
     <tr>
       <td style="white-space: nowrap;">2024-12-13</td>
       <td><img src="/assets/publications/simulating_hard_attention.jpg" onerror="this.src='error.jpg';this.onerror='';" width="200"></td>
       <td>Simulating Hard Attention Using Soft Attention</td>
       <td>Andy J Yang, <strong>Lena Strobl</strong>, David Chiang, Dana Angluin</td>
-      <td><a href="https://arxiv.org/abs/2412.09925">arXiv</a></td>
+      <td><a href="https://arxiv.org/abs/2412.09925">&#128462;</a></td>
     </tr>
     <tr>
       <td style="white-space: nowrap;">2024-04-02</td>
       <td><img src="/assets/publications/transformers_as_transducers.jpg" onerror="this.src='error.jpg';this.onerror='';" width="200"></td>
       <td>Transformers as Transducers</td>
       <td><strong>Lena Strobl</strong>, Dana Angluin, David Chiang, Jon Rawski, Ashish Sabharwal</td>
-      <td><a href="https://arxiv.org/abs/2404.02040">arXiv</a></td>
+      <td><a href="https://arxiv.org/abs/2404.02040">&#128462;</a></td>
     </tr>
     <tr>
       <td style="white-space: nowrap;">2023-11-01</td>
       <td><img src="/assets/publications/formal_languages_transformers.jpg" onerror="this.src='error.jpg';this.onerror='';" width="200"></td>
       <td>What Formal Languages Can Transformers Express? A Survey</td>
       <td><strong>Lena Strobl</strong>, Will Merrill, Gail Weiss, David Chiang, Dana Angluin</td>
-      <td><a href="https://arxiv.org/abs/2311.00208">arXiv</a></td>
+      <td><a href="https://arxiv.org/abs/2311.00208">&#128462;</a></td>
     </tr>
     <tr>
       <td style="white-space: nowrap;">2023-08-06</td>
       <td><img src="/assets/publications/average_hard_attention.jpg" onerror="this.src='error.jpg';this.onerror='';" width="200"></td>
       <td>Average-Hard Attention Transformers are Constant-Depth Uniform Threshold Circuits</td>
       <td><strong>Lena Strobl</strong></td>
-      <td><a href="https://arxiv.org/abs/2308.03212">arXiv</a></td>
+      <td><a href="https://arxiv.org/abs/2308.03212">&#128462;</a></td>
     </tr>
   </tbody>
 </table>
