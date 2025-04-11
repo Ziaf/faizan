@@ -1,0 +1,13 @@
+main:
+  - title: "Publications"
+    url: /publications/
+  - title: "Talks"
+    url: /talks/
+  - title: "Blog"
+    url: /blog/
+  - title: "Photography"
+    url: /photography/
+  - title: "Personal"
+    url: /personal/
+  - title: "ESSLLI 2024"
+    url: /esslli2024/
