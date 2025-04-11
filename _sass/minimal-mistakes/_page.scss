@@ -36,12 +36,12 @@ body {
 .page {
   @include breakpoint($large) {
     float: inline-end;
-    width: calc(100% - #{$right-sidebar-width-narrow});
+    width: calc(70% - #{$right-sidebar-width-narrow});
     padding-inline-end: $right-sidebar-width-narrow;
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
+    width: calc(70% - #{$right-sidebar-width});
     padding-inline-end: $right-sidebar-width;
   }
 
@@ -49,7 +49,7 @@ body {
     float: inline-start;
     margin-top: 1em;
     margin-inline: 0;
-    width: 100%;
+    width: 70%;
     clear: both;
 
     .page__content,
@@ -58,7 +58,7 @@ body {
       position: relative;
       float: inline-start;
       margin-inline: 0;
-      width: 100%;
+      width: 70%;
       clear: both;
     }
   }
@@ -229,7 +229,7 @@ body {
 }
 
 .page__hero-image {
-  width: 100%;
+  width: 70%;
   height: auto;
   -ms-interpolation-mode: bicubic;
 }
@@ -422,7 +422,7 @@ body {
 .page__comments {
   float: inline-start;
   margin-inline: 0;
-  width: 100%;
+  width: 70%;
   clear: both;
 }
 
@@ -488,10 +488,10 @@ body {
 
 .comment__content-wrapper {
   float: inline-end;
-  width: calc(100% - 60px);
+  width: calc(70% - 60px);
 
   @include breakpoint($large) {
-    width: calc(100% - 100px);
+    width: calc(70% - 100px);
   }
 }
 
@@ -525,11 +525,11 @@ body {
 
   @include breakpoint($large) {
     float: inline-end;
-    width: calc(100% - #{$right-sidebar-width-narrow});
+    width: calc(70% - #{$right-sidebar-width-narrow});
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
+    width: calc(70% - #{$right-sidebar-width});
   }
 
   a {
