@@ -9,5 +9,5 @@ main:
     url: /photography/
   - title: "Personal"
     url: /personal/
-  - title: "ESSLLI 2024"
-    url: /esslli2024/
+  # - title: "ESSLLI 2024"
+  #   url: /esslli2024/
