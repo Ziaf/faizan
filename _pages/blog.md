@@ -13,7 +13,10 @@ data-layout="slider"
 data-poststyle="external" 
 data-readmore="Read the rest" 
 data-buttonclass="btn btn-primary" 
-data-offset="-100"></div>
+data-offset="-100">
 
 <script src="https://www.retainable.io/assets/retainable/rss-embed/retainable-rss-embed.js"></script>
+  
+</div>
+
 
