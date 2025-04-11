@@ -6,7 +6,7 @@ permalink: /
 
 <p style="font-size: 1rem; color: #666; margin-top: -0.5rem;">
   <strong>Ph.D. Student</strong>, <em>he/him</em><br>
-  <code>faizanuddin_r[æt]isi.cal.ac.in</code>
+  <code>faizanuddin_r[æt]isical.ac.in</code>
 </p>
 
 <div style="display:flex;align-items:center;justify-content:space-between;">
