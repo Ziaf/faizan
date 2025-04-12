@@ -37,7 +37,7 @@ permalink: /
   <em style="color: #ffffff;">class imbalance</em>, 
   <em style="color: #ffffff;">long-tailed distributions</em>, 
   <em style="color: #ffffff;">bias mitigation</em>, and 
-  <em style="color: #ffffff;">explainability</em>.
+  <em style="color: #ffffff;">xAI</em>.
 </p>
   </div>
 <div style="flex:1;text-align:right;">
