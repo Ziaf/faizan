@@ -56,7 +56,6 @@ permalink: /
   <img src="assets/images/avtar.png" alt="faizan" style="border-radius:0px;width:180px;height:180px;object-fit:cover;">
 </div>  -->
 </div>
----
 <!-- <div style="max-width: 800px; margin: 50px auto;"> -->
 <!-- <div style="display:flex; gap: 2rem;"> -->
 <!-- <div style="flex:1;"> -->
@@ -83,7 +82,6 @@ permalink: /
 ---
 <div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 18px; line-height: 1.7;">
   <h2 style="text-align: left; color: #5a2a82; margin-bottom: 21px;">📰 News</h2>
-
   <!-- Scrollable wrapper -->
   <div style="max-height: 500px; overflow-y: auto; border: 1px solid #ecf0f1; border-radius: 8px;">
     <table style="width: 100%; border-collapse: collapse; min-width: 600px;">
