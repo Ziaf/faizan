@@ -20,10 +20,10 @@ permalink: /
 
 <div style="display:flex;align-items:center;justify-content:space-between;">
   <div style="flex:2;">
-    <p>I'm a <strong>Ph.D. candidate</strong> at the <a href="https://www.isical.ac.in" target="_blank" style="color: #2980b9;">Indian Statistical Institute (ISI), Kolkata</a>, working under the supervision of <a href="https://www.isical.ac.in/~swagatam.das/" target="_blank" style="color: #2980b9;">Prof. Swagatam Das</a> in the Electronics and Communication Sciences Unit (ECSU).<br> Today’s world runs on data, but not all data is created equal. Models must perform reliably even when data is scarce, skewed, or biased—and that’s exactly where I come in. I design algorithms that tackle real-world data challenges head-on: handling imbalance, enhancing fairness, and enabling generalization through zero-shot and few-shot forecasting. <br> My doctoral research focuses on developing <strong>resilient deep learning models</strong> for tackling real-world issues like <em>class imbalance</em>, <em>long-tailed distributions</em>, <em>bias mitigation</em>, and <em>explainability</em>. <br>I hold a B.Tech and M.Tech in Computer Engineering and Software Engineering respectively, from Zakir Husain College of Engineering & Technology (ZHCET), Aligarh Muslim University (AMU).</p>
+    <p>I'm a <strong>Ph.D. candidate</strong> at the <a href="https://www.isical.ac.in" target="_blank" style="color: #2980b9;">Indian Statistical Institute (ISI), Kolkata</a>, working under the supervision of <a href="https://www.isical.ac.in/~swagatam.das/" target="_blank" style="color: #2980b9;">Prof. Swagatam Das</a> in the Electronics and Communication Sciences Unit (ECSU).<br> Today’s world runs on data, but not all data is created equal. Models must perform reliably even when data is scarce, skewed, or biased—and that’s exactly where I come in. I design algorithms that tackle real-world data challenges head-on: handling imbalance, enhancing fairness, and enabling generalization through zero-shot and few-shot forecasting. <br> My doctoral research focuses on developing <strong>resilient deep learning models</strong> for tackling real-world issues like <em>class imbalance</em>, <em>long-tailed distributions</em>, <em>bias mitigation</em>, and <em>explainability</em>. </p>
   </div>
 <div style="flex:1;text-align:right;">
-  <img src="assets/images/avtar.png" alt="faizan" style="border-radius:0px;width:180px;height:180px;object-fit:cover;">
+  <img src="assets/images/avtar.png" alt="faizan" style="border-radius:0px;width:220px;height:220px;object-fit:cover;">
 <!--   <h3 style="color: #2c3e50; margin-top: 10px; text-align:left;">🔬 Areas of Interest</h3>
   <ul style="list-style: none; padding-left:0;text-align:left;">
     <li>📊 Long-Tailed and Imbalanced Learning</li>
@@ -33,7 +33,7 @@ permalink: /
   </ul> -->
 </div>
 </div>
- <p style="margin-top: 10px;">
+ <p style="margin-top: 10px;"> I hold a B.Tech and M.Tech in Computer Engineering and Software Engineering respectively, from Zakir Husain College of Engineering & Technology (ZHCET), Aligarh Muslim University (AMU). <br>
     If you're looking for someone who blends <strong>research expertise</strong> with <strong>real-world application</strong> — let’s connect!
   </p>
 
