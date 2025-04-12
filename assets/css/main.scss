@@ -71,12 +71,6 @@ $h-size-6: 1em !default;
 
 /* Make layout wider only on large screens (responsive!) */
 @media (min-width: 1024px) {
-  .layout--single,
-  .layout--home,
-  .page__container,
-  .page,
-  .page__inner-wrap,
-  .page__content,
   .archive {
     max-width: 1200px !important;
     width: 100% !important;
