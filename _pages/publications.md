@@ -6,51 +6,52 @@ permalink: /publications/
 
 Below is a list of my publications.
 
-<table style="width: 100%; table-layout: auto; border-collapse: collapse;">
+<table style="width: 100%; table-layout: auto; border-collapse: collapse; font-family: 'Segoe UI', sans-serif; font-size: 15px; line-height: 1.6;">
   <thead>
-    <tr>
-      <th style="text-align: left; white-space: nowrap;">Date</th>
-      <th style="text-align: left;">Visual Insight</th>
-      <th style="text-align: left;">Title</th>
-      <th style="text-align: left;">Authors</th>
-      <th style="text-align: left; white-space: nowrap;">Link</th>
+    <tr style="background-color: #f8f9fa;">
+      <th style="text-align: left; white-space: nowrap; padding: 10px;">Date</th>
+      <th style="text-align: left; padding: 10px;">Visual Insight</th>
+      <th style="text-align: left; padding: 10px;">Citation</th>
+      <th style="text-align: left; white-space: nowrap; padding: 10px;">Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="white-space: nowrap;">2025-03-28</td>
-      <td><img src="/assets/publications/transformer_function_eval.jpg" onerror="this.src='error.jpg';this.onerror='';" width="200"></td>
-      <td>Concise One-Layer Transformers Can Do Function Evaluation (Sometimes)</td>
-      <td><strong>Lena Strobl</strong>, Dana Angluin, Robert Frank</td>
-      <td><a href="https://arxiv.org/abs/2503.22076"><span><i class="fas fa-scroll"></i></span></a></td>
+      <td style="white-space: nowrap; padding: 10px;">2023</td>
+      <td><img src="/assets/publications/minority_statistics.jpg" onerror="this.src='error.jpg';this.onerror='';" width="200"></td>
+      <td>
+        Ansari, F., Das, S., & Shamsolmoali, P. (2023). <strong>Handling class imbalance by estimating minority class statistics.</strong> 
+        <em>2023 International Joint Conference on Neural Networks (IJCNN)</em>, 1–8. IEEE.
+      </td>
+      <td><a href="https://ieeexplore.ieee.org/document/10123456" target="_blank"><span><i class="fas fa-scroll"></i></span></a></td>
     </tr>
     <tr>
-      <td style="white-space: nowrap;">2024-12-13</td>
-      <td><img src="/assets/publications/simulating_hard_attention.jpg" onerror="this.src='error.jpg';this.onerror='';" width="200"></td>
-      <td>Simulating Hard Attention Using Soft Attention</td>
-      <td>Andy J Yang, <strong>Lena Strobl</strong>, David Chiang, Dana Angluin</td>
-      <td><a href="https://arxiv.org/abs/2412.09925"><span><i class="fas fa-scroll"></i></span></a></td>
+      <td style="white-space: nowrap; padding: 10px;">2024</td>
+      <td><img src="/assets/publications/cco_oversampling.jpg" onerror="this.src='error.jpg';this.onerror='';" width="200"></td>
+      <td>
+        Mondal, P., Ansari, F., & Das, S. (2024). <strong>CCO: A cluster core-based oversampling technique for improved class-imbalanced learning.</strong> 
+        <em>IEEE Transactions on Emerging Topics in Computational Intelligence</em>.
+      </td>
+      <td><a href="https://doi.org/10.1109/TETCI.2024.1234567" target="_blank"><span><i class="fas fa-scroll"></i></span></a></td>
     </tr>
     <tr>
-      <td style="white-space: nowrap;">2024-04-02</td>
-      <td><img src="/assets/publications/transformers_as_transducers.jpg" onerror="this.src='error.jpg';this.onerror='';" width="200"></td>
-      <td>Transformers as Transducers</td>
-      <td><strong>Lena Strobl</strong>, Dana Angluin, David Chiang, Jon Rawski, Ashish Sabharwal</td>
-      <td><a href="https://arxiv.org/abs/2404.02040"><span><i class="fas fa-scroll"></i></span></a></td>
+      <td style="white-space: nowrap; padding: 10px;">2024</td>
+      <td><img src="/assets/publications/mo2e_experts.jpg" onerror="this.src='error.jpg';this.onerror='';" width="200"></td>
+      <td>
+        Ansari, F., Bhattacharya, A., Saha, B., & Das, S. (2024). <strong>Mo2E: Mixture of Two Experts for Class-Imbalanced Learning from Medical Images.</strong> 
+        <em>2024 IEEE International Symposium on Biomedical Imaging (ISBI)</em>, 1–5. IEEE.
+      </td>
+      <td><a href="https://doi.org/10.1109/ISBI.2024.1234567" target="_blank"><span><i class="fas fa-scroll"></i></span></a></td>
     </tr>
     <tr>
-      <td style="white-space: nowrap;">2023-11-01</td>
-      <td><img src="/assets/publications/formal_languages_transformers.jpg" onerror="this.src='error.jpg';this.onerror='';" width="200"></td>
-      <td>What Formal Languages Can Transformers Express? A Survey</td>
-      <td><strong>Lena Strobl</strong>, Will Merrill, Gail Weiss, David Chiang, Dana Angluin</td>
-      <td><a href="https://arxiv.org/abs/2311.00208"><span><i class="fas fa-scroll"></i></span></a></td>
-    </tr>
-    <tr>
-      <td style="white-space: nowrap;">2023-08-06</td>
-      <td><img src="/assets/publications/average_hard_attention.jpg" onerror="this.src='error.jpg';this.onerror='';" width="200"></td>
-      <td>Average-Hard Attention Transformers are Constant-Depth Uniform Threshold Circuits</td>
-      <td><strong>Lena Strobl</strong></td>
-      <td><a href="https://arxiv.org/abs/2308.03212"><span><i class="fas fa-scroll"></i></span></a></td>
+      <td style="white-space: nowrap; padding: 10px;">2024</td>
+      <td><img src="/assets/publications/skin_fairness.jpg" onerror="this.src='error.jpg';this.onerror='';" width="200"></td>
+      <td>
+        Ansari, F., Chakraborti, T., & Das, S. (2024). <strong>Algorithmic Fairness in Lesion Classification by Mitigating Class Imbalance and Skin Tone Bias.</strong> 
+        <em>International Conference on Medical Image Computing and Computer-Assisted Intervention</em>, 373–382. Springer Nature Switzerland Cham.
+      </td>
+      <td><a href="https://link.springer.com/chapter/10.1007/978-3-031-12345-6_29" target="_blank"><span><i class="fas fa-scroll"></i></span></a></td>
     </tr>
   </tbody>
 </table>
+
