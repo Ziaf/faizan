@@ -49,7 +49,7 @@ permalink: /
   
   <h3 style="margin-bottom: 10px;">🔬 Research Interests</h3>
   <p>
-    <span style="font-weight: 500;">Today’s world runs on data</span>, but not all data is created equal. 
+    <span >Today’s world runs on data</span>, but not all data is created equal. 
     Models must perform reliably even when data is 
     <strong >scarce</strong>, 
     <strong >skewed</strong>, or 
@@ -73,7 +73,7 @@ permalink: /
   <p>
     I hold a <strong>B.Tech</strong> in Computer Engineering and an 
     <strong>M.Tech</strong> in Computer Science and Engineering with a specialization in Software Engineering — 
-    both from <span style="font-weight: 500;">Zakir Husain College of Engineering & Technology (ZHCET)</span>, 
+    both from <span >Zakir Husain College of Engineering & Technology (ZHCET)</span>, 
     <span>Aligarh Muslim University (AMU)</span>.
   </p>
 
