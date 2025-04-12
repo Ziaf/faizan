@@ -23,11 +23,11 @@ permalink: /
     <p>I'm a <strong>Ph.D. candidate</strong> at the <a href="https://www.isical.ac.in" target="_blank" style="color: #2980b9;">Indian Statistical Institute (ISI), Kolkata</a>, working under the supervision of <a href="https://www.isical.ac.in/~swagatam.das/" target="_blank" style="color: #2980b9;">Prof. Swagatam Das</a> in the Electronics and Communication Sciences Unit (ECSU). My research focuses on building <strong>resilient and responsible AI systems</strong> — tackling real-world issues like <em>class imbalance</em>, <em>long-tailed distributions</em>, <em>bias mitigation</em>, and <em>explainability</em>. </p>
   </div>
   <div style="flex:1;text-align:right;">
-    <img src="assets/images/avtar.png" alt="faizan" style="border-radius:8px;width:200px;height:200px;object-fit:cover;">
+    <img src="assets/images/avtar.png" alt="faizan" style="border-radius:8px;width:160px;height:160px;object-fit:cover;">
   </div>
 </div>
 <div style="flex:1;">
-  <blockquote style="font-style: italic; color: #A0E7E5; border-left: 0px solid #bdc3c7; padding-left: 0px; margin: 20px 0;">
+  <blockquote style="font-style: italic; color: #7f8c8d; border-left: 0px solid #bdc3c7; padding-left: 0px; margin: 20px 0;">
     “Today’s world runs on data — but not all data is created equal. I specialize in building models that work reliably even when data is sparse, biased, or imbalanced.”
   </blockquote>
 </div>
