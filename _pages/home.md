@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Faizanuddin Ansari"
+author_profile: true
 permalink: /
 ---
 
@@ -47,7 +48,7 @@ permalink: /
   <em style="color: #5d6d7e;">explainability</em>.
 </p>
   </div>
-<div style="flex:1;text-align:right;">
+<!-- <div style="flex:1;text-align:right;">
   <img src="assets/images/avtar.png" alt="faizan" style="border-radius:0px;width:220px;height:220px;object-fit:cover;">
 <!--   <h3 style="color: #2c3e50; margin-top: 10px; text-align:left;">🔬 Areas of Interest</h3>
   <ul style="list-style: none; padding-left:0;text-align:left;">
@@ -56,7 +57,7 @@ permalink: /
     <li>🔍 Zero-/Few-Shot Forecasting</li>
     <li>🧲 Contrastive Learning & Representation Learning</li>
   </ul> -->
-</div>
+</div> -->
 </div>
  <p style="margin-top: 10px;"> I hold a B.Tech and M.Tech in Computer Engineering and Software Engineering respectively, from Zakir Husain College of Engineering & Technology (ZHCET), Aligarh Muslim University (AMU). <br>
     If you're looking for someone who blends <strong>research expertise</strong> with <strong>real-world application</strong> — let’s connect!
