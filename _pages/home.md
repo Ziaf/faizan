@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Faizanuddin Ansari"
-author_profile: false
+author_profile: true
 permalink: /
 ---
 
@@ -41,9 +41,9 @@ permalink: /
   <strong>xAI</strong>.
 </p>
   </div>
-<div style="flex:1;text-align:right;">
+<!-- <div style="flex:1;text-align:right;">
   <img src="assets/images/avtar.png" alt="faizan" style="border-radius:0px;width:180px;height:180px;object-fit:cover;">
-</div> 
+</div>  -->
 </div>
 ---
 <div style="max-width: 800px; margin: 50px auto;">
