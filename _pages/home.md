@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Faizanuddin Ansari"
-author_profile: true
+author_profile: false
 permalink: /
 ---
 
