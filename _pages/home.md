@@ -21,16 +21,13 @@ permalink: /
 <div style="display:flex;align-items:center;justify-content:space-between;">
   <div style="flex:2;">
     <p>I'm a <strong>Ph.D. candidate</strong> at the <a href="https://www.isical.ac.in" target="_blank" style="color: #2980b9;">Indian Statistical Institute (ISI), Kolkata</a>, working under the supervision of <a href="https://www.isical.ac.in/~swagatam.das/" target="_blank" style="color: #2980b9;">Prof. Swagatam Das</a> in the Electronics and Communication Sciences Unit (ECSU). My doctoral research focuses on developing <strong>resilient deep learning models</strong> for tackling real-world issues like <em>class imbalance</em>, <em>long-tailed distributions</em>, <em>bias mitigation</em>, and <em>explainability</em>. </p>
+    <p>Today’s world runs on data, but not all data is created equal. Models must perform reliably even when data is scarce, skewed, or biased—and that’s exactly where I come in. I design algorithms that tackle real-world data challenges head-on: handling imbalance, enhancing fairness, and enabling generalization through zero-shot and few-shot forecasting.Currently, I’m a <strong>Research Associate at Ericsson Research</strong>, where I work on scalable AI solutions for real-world use cases like <em>churn prediction</em> and <em>zero-/few-shot time series forecasting</em>.</p>
   </div>
   <div style="flex:1;text-align:right;">
     <img src="assets/images/avtar.png" alt="faizan" style="border-radius:8px;width:200px;height:200px;object-fit:cover;">
   </div>
   </div>
-  <div style="display:flex; gap: 2rem;">
-<div style="flex:1;">
- <p> Today’s world runs on data, but not all data is created equal. Models must perform reliably even when data is scarce, skewed, or biased—and that’s exactly where I come in. I design algorithms that tackle real-world data challenges head-on: handling imbalance, enhancing fairness, and enabling generalization through zero-shot and few-shot forecasting.Currently, I’m a <strong>Research Associate at Ericsson Research</strong>, where I work on scalable AI solutions for real-world use cases like <em>churn prediction</em> and <em>zero-/few-shot time series forecasting</em>. </p> 
-</div>
-  </div>
+
 
 
 ---
