@@ -52,8 +52,8 @@ permalink: /
  <p style="margin-top: 10px;"> 
   <strong style="color: #2980b9; font-weight: 600; margin-top: -0.5rem;">Research Interest: </strong> <br>
     <span style="font-weight: 500;">Today’s world runs on data</span>, but not all data is created equal. 
-  Models must perform reliably even when data is <strong style="color: #c0392b;">scarce</strong>, 
-  <strong style="color: #c0392b;">skewed</strong>, or <strong style="color: #c0392b;">biased</strong> — 
+  Models must perform reliably even when data is <strong style="color: #524d7f;">scarce</strong>, 
+  <strong style="color: #524d7f;">skewed</strong>, or <strong style="color: #524d7f;">biased</strong> — 
   and that’s exactly where I come in.
   I design algorithms that tackle <strong>real-world data challenges</strong> head-on: 
   <strong style="color: #524d7f;">handling imbalance</strong>, 
@@ -72,7 +72,7 @@ permalink: /
 </div>
 ---
 
-<div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 18px;">
+<div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 20px;">
   <h2 style="text-align: left; color: #6c3483; margin-bottom: 20px;">📰 News</h2>
 
   <table style="width: 100%; border-collapse: collapse; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);">
