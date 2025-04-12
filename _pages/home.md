@@ -67,7 +67,7 @@ permalink: /
   I hold a B.Tech in Computer Engineering and an M.Tech in Computer Science and Engineering with a specialization in Software Engineering, both from Zakir Husain College of Engineering & Technology (ZHCET), Aligarh Muslim University (AMU). <br>
 </div>
 </div>
-  If you're looking for someone who blends <strong>research expertise</strong> with <strong>real-world application</strong> — let’s connect!
+  <p>If you're looking for someone who blends <strong>research expertise</strong> with <strong>real-world application</strong> — let’s connect!</p>
 </div>  
 ---
 <div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 16px; line-height: 1.7;">
