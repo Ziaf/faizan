@@ -39,7 +39,7 @@ permalink: /
 
 ---
 
-<div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif;">
+<div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 16px;">
   <h2 style="text-align: center; color: #6c3483; margin-bottom: 20px;">📰 Latest News</h2>
 
   <table style="width: 100%; border-collapse: collapse; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);">
@@ -77,10 +77,11 @@ permalink: /
     </tbody>
   </table>
 
-  <p style="text-align: center; margin-top: 20px; color: #8e44ad; font-size: 0.9em;">
+  <p style="text-align: center; margin-top: 20px; color: #8e44ad; font-size: 0.95em;">
     ✨ Stay tuned for more updates from my research journey!
   </p>
 </div>
+
 
 <!--
 <div style="display:flex; gap: 2rem;">
