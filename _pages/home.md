@@ -25,7 +25,7 @@ permalink: /
   </div>
 
   <div style="flex:1;text-align:right;">
-    <img src="assets/images/avtar.png" alt="faizan" style="border-radius:8px;width:150px;height:150px;object-fit:cover;">
+    <img src="assets/images/avtar.png" alt="faizan" style="border-radius:8px;width:200px;height:200px;object-fit:cover;">
   </div>
 </div>
 
