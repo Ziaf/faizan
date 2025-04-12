@@ -43,6 +43,7 @@ permalink: /
   <img src="assets/images/avtar.png" alt="faizan" style="border-radius:0px;width:180px;height:180px;object-fit:cover;">
 </div> 
 </div>
+ <hr style="margin: 15px 0; border: none; border-top: 1px dashed #d5d8dc;">
 <div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 16px; line-height: 1.8; color: #2c3e50;">
   
   <h3 style="color: #6c3483; margin-bottom: 10px;">🔬 Research Interests</h3>
@@ -65,7 +66,7 @@ permalink: /
     <strong style="color: #117864;">few-shot forecasting</strong>, ensuring AI models remain robust under limited-data scenarios.
   </p>
 
-  <hr style="margin: 30px 0; border: none; border-top: 1px dashed #d5d8dc;">
+  <hr style="margin: 15px 0; border: none; border-top: 1px dashed #d5d8dc;">
 
   <h3 style="color: #6c3483; margin-bottom: 10px;">🎓 Education</h3>
   <p>
