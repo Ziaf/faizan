@@ -33,7 +33,7 @@ permalink: /
   </ul> -->
 </div>
 </div>
- <p style="margin-top: 30px;">
+ <p style="margin-top: 10px;">
     If you're looking for someone who blends <strong>research expertise</strong> with <strong>real-world application</strong> — let’s connect!
   </p>
 
