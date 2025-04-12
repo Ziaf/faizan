@@ -47,11 +47,13 @@ permalink: /
 <div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 16px; line-height: 1.8;">
   <h3>🔬 Research Interests</h3>
   <p>
-    <span >Today’s world runs on data</span>, but not all data is created equal. 
-    Models must perform reliably even when data is 
+<!--     <span >Today’s world runs on data</span>, but not all data is created equal.  -->
+    Most real-world datasets are far from ideal—they're imbalanced, biased, or too small to learn from effectively
+<!--     Models must perform reliably even when data is 
     <strong >scarce</strong>, 
     <strong >skewed</strong>, or 
-    <strong >biased</strong> — and that’s exactly where I come in.
+    <strong >biased</strong>  -->
+    — and that’s exactly where I come in.
   </p>
   <p>
     My work focuses on designing algorithms that tackle 
