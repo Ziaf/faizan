@@ -47,32 +47,6 @@ permalink: /
 </div>
 ---
 <div style="max-width: 800px; margin: 50px auto;">
- <div style="display:flex; gap: 2rem;">
-<div style="flex:1;">
- <p style="margin-top: 10px;"> 
-<!--   <strong style="color: #2980b9; font-weight: 600; margin-top: -0.5rem;">Research Interest: </strong> <br> -->
-   <h3>Research Interest:</h3>
-    <span style="font-weight: 500;">Today’s world runs on data</span>, but not all data is created equal. 
-  Models must perform reliably even when data is <strong style="color: #524d7f;">scarce</strong>, 
-  <strong style="color: #524d7f;">skewed</strong>, or <strong style="color: #524d7f;">biased</strong> — 
-  and that’s exactly where I come in.
-  I design algorithms that tackle <strong>real-world data challenges</strong> head-on: 
-  <strong style="color: #524d7f;">handling imbalance</strong>, 
-  <strong style="color: #524d7f;">enhancing fairness</strong>, and 
-  <strong style="color: #524d7f;">enabling generalization</strong> through 
-  <strong style="color: #524d7f;">zero-shot</strong> and 
-  <strong style="color: #524d7f;">few-shot forecasting</strong>. 
- </p>
- <p> 
-<!--   <strong style="color: #2980b9; font-weight: 600; margin-top: -0.5rem;">Education Qualification: </strong> <br>  -->
-   <h3>Education Qualification:</h3>
-  I hold a B.Tech in Computer Engineering and an M.Tech in Computer Science and Engineering with a specialization in Software Engineering, both from Zakir Husain College of Engineering & Technology (ZHCET), Aligarh Muslim University (AMU). <br>
-    If you're looking for someone who blends <strong>research expertise</strong> with <strong>real-world application</strong> — let’s connect!
-  </p>
-</div> 
-</div>
-</div>
----
 <div style="display:flex; gap: 2rem;">
 <div style="flex:1;">
    <h3>Research Interest:</h3>
@@ -86,15 +60,16 @@ permalink: /
   <strong style="color: #524d7f;">enabling generalization</strong> through 
   <strong style="color: #524d7f;">zero-shot</strong> and 
   <strong style="color: #524d7f;">few-shot forecasting</strong>. 
- </p>
- <p> 
 <!--   <strong style="color: #2980b9; font-weight: 600; margin-top: -0.5rem;">Education Qualification: </strong> <br>  -->
+</div>
+<div style="flex:1;">  
    <h3>Education Qualification:</h3>
   I hold a B.Tech in Computer Engineering and an M.Tech in Computer Science and Engineering with a specialization in Software Engineering, both from Zakir Husain College of Engineering & Technology (ZHCET), Aligarh Muslim University (AMU). <br>
     If you're looking for someone who blends <strong>research expertise</strong> with <strong>real-world application</strong> — let’s connect!
-  </p>
 </div>
-<div style="flex:1;">  
+</div>
+</div>  
+---
 <div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 16px; line-height: 1.7;">
   <h2 style="text-align: left; color: #5a2a82; margin-bottom: 20px;">📰 News</h2>
 
@@ -140,9 +115,6 @@ permalink: /
   <p style="text-align: center; margin-top: 20px; color: #7d3c98; font-size: 0.95em;">
     ✨ Stay tuned for more updates from my research journey!
   </p>
-</div>
-</div>
-
 </div>
 
 
