@@ -21,6 +21,7 @@ permalink: /
 
 <div style="display:flex;align-items:center;justify-content:space-between;">
   <div style="flex:2;">
+  <strong style="font-size: 1rem; color: #666; margin-top: -0.5rem;">Bio: </strong>
     <p style="font-size: 16px; line-height: 1.8; color: #2c3e50; max-width: 800px;">
   I'm a 
   <strong style="color: #8e44ad; font-weight: 600;">Ph.D. candidate</strong> 
@@ -42,7 +43,11 @@ permalink: /
   <img src="assets/images/avtar.png" alt="faizan" style="border-radius:0px;width:200px;height:200px;object-fit:cover;">
 </div> 
 </div>
+
+ <div style="display:flex; gap: 2rem;">
+<div style="flex:1;">
  <p style="margin-top: 10px;"> 
+  <strong style="font-size: 1rem; color: #666; margin-top: -0.5rem;">Research Interest: </strong> <br>
     <span style="font-weight: 500;">Today’s world runs on data</span>, but not all data is created equal. 
   Models must perform reliably even when data is <strong style="color: #c0392b;">scarce</strong>, 
   <strong style="color: #c0392b;">skewed</strong>, or <strong style="color: #c0392b;">biased</strong> — 
@@ -56,7 +61,8 @@ permalink: /
    I hold a B.Tech and M.Tech in Computer Engineering and Software Engineering respectively, from Zakir Husain College of Engineering & Technology (ZHCET), Aligarh Muslim University (AMU). <br>
     If you're looking for someone who blends <strong>research expertise</strong> with <strong>real-world application</strong> — let’s connect!
   </p>
-
+</div> 
+</div>
 ---
 
 <div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 22px;">
