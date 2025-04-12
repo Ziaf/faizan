@@ -25,7 +25,7 @@ permalink: /
    <p style="font-size: 16px; line-height: 1.8; color: #2c3e50; max-width: 800px;"> -->
   <p>
   I'm a 
-  <strong style="color: #000000; font-weight: 600;">Ph.D. candidate</strong> 
+  <strong style="color: #000000; font-weight: 600;">Ph.D. fellow</strong> 
   at the 
   <a href="https://www.isical.ac.in" target="_blank" style="color: #2980b9; font-weight: 500;">Indian Statistical Institute (ISI), Kolkata</a>, 
   working under the supervision of 
