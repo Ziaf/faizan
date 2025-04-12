@@ -74,48 +74,49 @@ permalink: /
 </div>
 ---
 
-<div style="max-width: 800px; margin: 50px auto;">
-  <h2 style="text-align: left; color: #6c3483; margin-bottom: 20px;">📰 News</h2>
+<div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 16px; line-height: 1.7;">
+  <h2 style="text-align: left; color: #5a2a82; margin-bottom: 20px;">📰 News</h2>
 
   <table style="width: 100%; border-collapse: collapse; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);">
     <thead>
       <tr style="background-color: #ffffff; border-bottom: 2px solid #ecf0f1;">
-        <th style="text-align: left; padding: 12px 20px; border: 1px solid #ffffff; color: #5d6d7e;">📅 Date</th>
-        <th style="text-align: left; padding: 12px 20px; border: 1px solid #ffffff; color: #5d6d7e;">🗞️ News</th>
+        <th style="text-align: left; padding: 12px 20px; border: 1px solid #ffffff; color: #6e7c91;">📅 Date</th>
+        <th style="text-align: left; padding: 12px 20px; border: 1px solid #ffffff; color: #6e7c91;">🗞️ News</th>
       </tr>
     </thead>
     <tbody>
       <tr style="background-color: #f9f9f9;">
-        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #2e4053;"><strong>May 2024</strong></td>
-        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #4a148c;">
-          Presented my research (poster) in IEEE ISBI 2024, Athens, Greece.
+        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #34495e;"><strong>May 2024</strong></td>
+        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #2c3e50;">
+          Presented my research (poster) at <strong>IEEE ISBI 2024</strong>, Athens, Greece.
         </td>
       </tr>
       <tr style="background-color: #ffffff;">
-        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #2e4053;"><strong>May 2024</strong></td>
-        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #4a148c;">
-          Our work on [CCO: A Cluster Core-based Oversampling Technique for Improved Class-Imbalanced Learning](https://ieeexplore.ieee.org/document/10555431) has been published in [IEEE TETCI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297).
+        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #34495e;"><strong>May 2024</strong></td>
+        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #2c3e50;">
+          Our work <a href="https://ieeexplore.ieee.org/document/10555431" target="_blank" style="color: #8e44ad; font-weight: 500;">CCO: A Cluster Core-based Oversampling Technique for Improved Class-Imbalanced Learning</a> has been published in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297" target="_blank" style="color: #2980b9; font-weight: 500;">IEEE TETCI</a>.
         </td>
       </tr>
       <tr style="background-color: #f9f9f9;">
-        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #2e4053;"><strong>February 2024</strong></td>
-        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #4a148c;">
-         (Poster) Paper on Mo2E: Mixture of Two Experts for Class-Imbalanced Learning from Medical Images accepted in the [IEEE ISBI 2024](https://biomedicalimaging.org/2024/). [Paper](https://ieeexplore.ieee.org/document/10635212).
+        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #34495e;"><strong>February 2024</strong></td>
+        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #2c3e50;">
+          (Poster) Paper on <strong>Mo2E: Mixture of Two Experts for Class-Imbalanced Learning from Medical Images</strong> accepted at <a href="https://biomedicalimaging.org/2024/" target="_blank" style="color: #8e44ad;">IEEE ISBI 2024</a>. <a href="https://ieeexplore.ieee.org/document/10635212" target="_blank" style="color: #2980b9;">[View Paper]</a>
         </td>
       </tr>
       <tr style="background-color: #ffffff;">
-        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #2e4053;"><strong>April 2023</strong></td>
-        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #4a148c;">
-         (Oral,Poster) Paper on Handling Class Imbalance by Estimating Minority Class Statistics accepted in the [IEEE IJCNN 2023](https://2023.ijcnn.org/). [paper](https://ieeexplore.ieee.org/document/10191975) .
+        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #34495e;"><strong>April 2023</strong></td>
+        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #2c3e50;">
+          (Oral & Poster) Paper on <strong>Handling Class Imbalance by Estimating Minority Class Statistics</strong> accepted at <a href="https://2023.ijcnn.org/" target="_blank" style="color: #8e44ad;">IEEE IJCNN 2023</a>. <a href="https://ieeexplore.ieee.org/document/10191975" target="_blank" style="color: #2980b9;">[View Paper]</a>
         </td>
       </tr>
     </tbody>
   </table>
 
-  <p style="text-align: center; margin-top: 20px; color: #8e44ad; font-size: 0.95em;">
+  <p style="text-align: center; margin-top: 20px; color: #7d3c98; font-size: 0.95em;">
     ✨ Stay tuned for more updates from my research journey!
   </p>
 </div>
+
 
 
 <!--
