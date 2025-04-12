@@ -20,7 +20,7 @@ permalink: /
 
 <div style="display:flex;align-items:center;justify-content:space-between;">
   <div style="flex:2;">
-    <p font-size: 16px; line-height: 1.8; color: #2c3e50; max-width: 800px;">
+    <p style="font-size: 16px; line-height: 1.8; color: #2c3e50; max-width: 800px;">
   I'm a 
   <strong style="color: #8e44ad; font-weight: 600;">Ph.D. candidate</strong> 
   at the 
