@@ -24,7 +24,7 @@ permalink: /
  <!--   <strong style="font-size: 1rem; color: #666; margin-top: -0.5rem;">Bio: </strong>
    <p style="font-size: 16px; line-height: 1.8; color: #2c3e50; max-width: 800px;"> -->
   I'm a 
-  <strong style="color: #000000; font-weight: 600;">Ph.D. fellow</strong> 
+  <strong style="font-weight: 600;">Ph.D. fellow</strong> 
   at the 
   <a href="https://www.isical.ac.in" target="_blank" style="color: #2980b9; font-weight: 500;">Indian Statistical Institute (ISI), Kolkata</a>, 
   working under the supervision of 
@@ -108,7 +108,7 @@ permalink: /
     </table>
   </div>
 
-  <p style="text-align: center; margin-top: 20px; color: #7d3c98; font-size: 0.95em;">
+  <p style="text-align: center; margin-top: 20px; font-size: 0.95em;">
     ✨ Stay tuned for more updates from my research journey!
   </p>
 </div>
