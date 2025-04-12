@@ -37,22 +37,11 @@ permalink: /
   <strong>long-tailed distributions</strong>, 
   <strong>bias mitigation</strong>, 
   <strong>fairness</strong>,and 
-  <strong>xAI</strong>.<br> <span style="font-weight: 500;">Today’s world runs on data</span>, but not all data is created equal. 
-  Models must perform reliably even when data is <strong style="color: #524d7f;">scarce</strong>, 
-  <strong style="color: #524d7f;">skewed</strong>, or <strong style="color: #524d7f;">biased</strong> — 
-  and that’s exactly where I come in.
-  I design algorithms that tackle <strong>real-world data challenges</strong> head-on: 
-  <strong style="color: #524d7f;">handling imbalance</strong>, 
-  <strong style="color: #524d7f;">enhancing fairness</strong>, and 
-  <strong style="color: #524d7f;">enabling generalization</strong> through 
-  <strong style="color: #524d7f;">zero-shot</strong> and 
-  <strong style="color: #524d7f;">few-shot forecasting</strong>. <br>
-    I hold a B.Tech in Computer Engineering and an M.Tech in Computer Science and Engineering with a specialization in Software Engineering, both from Zakir Husain College of Engineering & Technology (ZHCET), Aligarh Muslim University (AMU). <br>
-  <p>If you're looking for someone who blends <strong>research expertise</strong> with <strong>real-world application</strong> — let’s connect!</p>
+  <strong>xAI</strong>.
   </div>
-<!-- <div style="flex:1;text-align:right;">
+<div style="flex:1;text-align:right;">
   <img src="assets/images/avtar.png" alt="faizan" style="border-radius:0px;width:180px;height:180px;object-fit:cover;">
-</div>  -->
+</div> 
 </div>
 <!-- <div style="max-width: 800px; margin: 50px auto;"> -->
 <!-- <div style="display:flex; gap: 2rem;"> -->
@@ -79,7 +68,7 @@ permalink: /
 <!-- </div>   -->
 ---
 <div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 18px; line-height: 1.7;">
-  <h2 style="text-align: left; color: #5a2a82; margin-bottom: 21px;">📰 News</h2>
+  <h2 style="text-align: left; margin-bottom: 21px;">📰 News</h2>
   <!-- Scrollable wrapper -->
   <div style="max-height: 500px; overflow-y: auto; border: 1px solid #ecf0f1; border-radius: 8px;">
     <table style="width: 100%; border-collapse: collapse; min-width: 600px;">
