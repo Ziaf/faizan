@@ -25,7 +25,7 @@ permalink: /
   </div>
 
   <div style="flex:1;text-align:right;">
-    <img src="/assets/images/avtar.png" alt="Lena Strobl" style="border-radius:8px;width:200px;height:200px;object-fit:cover;">
+    <img src="assets/images/avtar.png" alt="faizan" style="border-radius:8px;width:100px;height:100px;object-fit:cover;">
   </div>
 </div>
 
