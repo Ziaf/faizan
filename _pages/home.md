@@ -30,7 +30,7 @@ permalink: /
   <a href="https://www.isical.ac.in" target="_blank" style="color: #2980b9; font-weight: 500;">Indian Statistical Institute (ISI), Kolkata</a>, 
   working under the supervision of 
   <a href="https://www.isical.ac.in/~swagatam.das/" target="_blank" style="color: #2980b9; font-weight: 500;">Prof. Swagatam Das</a> 
-  in the <span style="font-style: italic;">Electronics and Communication Sciences Unit (ECSU)</span>.
+  in the <span style="font-style: bold;">Electronics and Communication Sciences Unit (ECSU)</span>.
   My doctoral research focuses on building 
   <strong>resilient deep learning models</strong> 
   to solve challenges around 
