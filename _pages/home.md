@@ -59,7 +59,7 @@ permalink: /
 ---
 
 <div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 22px;">
-  <h2 style="text-align: center; color: #6c3483; margin-bottom: 20px;">📰 Latest News</h2>
+  <h2 style="text-align: left; color: #6c3483; margin-bottom: 20px;">📰 News</h2>
 
   <table style="width: 100%; border-collapse: collapse; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);">
     <thead>
