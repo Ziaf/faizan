@@ -50,7 +50,8 @@ permalink: /
  <div style="display:flex; gap: 2rem;">
 <div style="flex:1;">
  <p style="margin-top: 10px;"> 
-  <strong style="color: #2980b9; font-weight: 600; margin-top: -0.5rem;">Research Interest: </strong> <br>
+<!--   <strong style="color: #2980b9; font-weight: 600; margin-top: -0.5rem;">Research Interest: </strong> <br> -->
+   <h3>Research Interest:</h3>
     <span style="font-weight: 500;">Today’s world runs on data</span>, but not all data is created equal. 
   Models must perform reliably even when data is <strong style="color: #524d7f;">scarce</strong>, 
   <strong style="color: #524d7f;">skewed</strong>, or <strong style="color: #524d7f;">biased</strong> — 
@@ -63,7 +64,8 @@ permalink: /
   <strong style="color: #524d7f;">few-shot forecasting</strong>. 
  </p>
  <p> 
-  <strong style="color: #2980b9; font-weight: 600; margin-top: -0.5rem;">Education Qualification: </strong> <br> 
+<!--   <strong style="color: #2980b9; font-weight: 600; margin-top: -0.5rem;">Education Qualification: </strong> <br>  -->
+   <h3>Education Qualification:</h3>
   I hold a B.Tech in Computer Engineering and an M.Tech in Computer Science and Engineering with a specialization in Software Engineering, both from Zakir Husain College of Engineering & Technology (ZHCET), Aligarh Muslim University (AMU). <br>
     If you're looking for someone who blends <strong>research expertise</strong> with <strong>real-world application</strong> — let’s connect!
   </p>
