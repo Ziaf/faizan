@@ -38,6 +38,50 @@ permalink: /
   </p>
 
 ---
+
+<div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif;">
+  <h2 style="text-align: center; color: #6c3483; margin-bottom: 20px;">📰 Latest News</h2>
+
+  <table style="width: 100%; border-collapse: collapse; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);">
+    <thead>
+      <tr style="background-color: #ffffff; border-bottom: 2px solid #ecf0f1;">
+        <th style="text-align: left; padding: 12px 20px; border: 1px solid #ffffff; color: #5d6d7e;">📅 Date</th>
+        <th style="text-align: left; padding: 12px 20px; border: 1px solid #ffffff; color: #5d6d7e;">🗞️ News</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="background-color: #f9f9f9;">
+        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #2e4053;"><strong>Apr 2025</strong></td>
+        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #4a148c;">
+          Paper accepted at MICCAI 2024 on fairness in skin tone classification.
+        </td>
+      </tr>
+      <tr style="background-color: #ffffff;">
+        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #2e4053;"><strong>Mar 2025</strong></td>
+        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #4a148c;">
+          Joined Ericsson Research as a Research Associate working on few-shot forecasting.
+        </td>
+      </tr>
+      <tr style="background-color: #f9f9f9;">
+        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #2e4053;"><strong>Feb 2025</strong></td>
+        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #4a148c;">
+          Our TETCI paper on dual-branch mixup strategy for long-tailed learning got accepted.
+        </td>
+      </tr>
+      <tr style="background-color: #ffffff;">
+        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #2e4053;"><strong>Jan 2025</strong></td>
+        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #4a148c;">
+          Presented work on minority class calibration at IJCNN 2023 in Gold Coast.
+        </td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p style="text-align: center; margin-top: 20px; color: #8e44ad; font-size: 0.9em;">
+    ✨ Stay tuned for more updates from my research journey!
+  </p>
+</div>
+
 <!--
 <div style="display:flex; gap: 2rem;">
 
