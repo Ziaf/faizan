@@ -64,7 +64,7 @@ $h-size-6: 1em !default;
 // !! ALL VARIABLE DECLARATIONS MUST BE BEFORE THIS STATEMENT !!
 // *************************************************************
 
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+// @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
 /* === Custom CSS Adjustments === */
