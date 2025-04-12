@@ -43,29 +43,44 @@ permalink: /
   <img src="assets/images/avtar.png" alt="faizan" style="border-radius:0px;width:180px;height:180px;object-fit:cover;">
 </div> 
 </div>
-<div style="max-width: 800px; margin: 50px auto;">
-<div style="display:flex; gap: 2rem;">
-<div style="flex:1;">
-   <h3>Research Interest:</h3>
+<div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 16px; line-height: 1.8; color: #2c3e50;">
+  
+  <h3 style="color: #6c3483; margin-bottom: 10px;">🔬 Research Interests</h3>
+  <p>
     <span style="font-weight: 500;">Today’s world runs on data</span>, but not all data is created equal. 
-  Models must perform reliably even when data is <strong style="color: #524d7f;">scarce</strong>, 
-  <strong style="color: #524d7f;">skewed</strong>, or <strong style="color: #524d7f;">biased</strong> — 
-  and that’s exactly where I come in.
-  I design algorithms that tackle <strong>real-world data challenges</strong> head-on: 
-  <strong style="color: #524d7f;">handling imbalance</strong>, 
-  <strong style="color: #524d7f;">enhancing fairness</strong>, and 
-  <strong style="color: #524d7f;">enabling generalization</strong> through 
-  <strong style="color: #524d7f;">zero-shot</strong> and 
-  <strong style="color: #524d7f;">few-shot forecasting</strong>. 
-  <strong style="color: #2980b9; font-weight: 600; margin-top: -0.5rem;">Education Qualification: </strong> <br> 
+    Models must perform reliably even when data is 
+    <strong style="color: #524d7f;">scarce</strong>, 
+    <strong style="color: #524d7f;">skewed</strong>, or 
+    <strong style="color: #524d7f;">biased</strong> — and that’s exactly where I come in.
+  </p>
+  <p>
+    My work focuses on designing algorithms that tackle 
+    <strong style="color: #154360;">real-world data challenges</strong> head-on:  
+    <span style="color: #524d7f;">class imbalance</span>, 
+    <span style="color: #524d7f;">long-tailed distributions</span>, 
+    <span style="color: #524d7f;">bias mitigation</span>, 
+    and <span style="color: #524d7f;">explainable AI</span>. 
+    I am especially interested in enabling generalization through 
+    <strong style="color: #117864;">zero-shot</strong> and 
+    <strong style="color: #117864;">few-shot forecasting</strong>, ensuring AI models remain robust under limited-data scenarios.
+  </p>
+
+  <hr style="margin: 30px 0; border: none; border-top: 1px dashed #d5d8dc;">
+
+  <h3 style="color: #6c3483; margin-bottom: 10px;">🎓 Education</h3>
+  <p>
+    I hold a <strong style="color: #2e86c1;">B.Tech</strong> in Computer Engineering and an 
+    <strong style="color: #2e86c1;">M.Tech</strong> in Computer Science and Engineering with a specialization in Software Engineering — 
+    both from <span style="font-weight: 500;">Zakir Husain College of Engineering & Technology (ZHCET)</span>, 
+    <span style="color: #566573;">Aligarh Muslim University (AMU)</span>.
+  </p>
+
+  <p style="margin-top: 20px; color: #7f8c8d;">
+    If you're looking for someone who blends <strong style="color: #34495e;">research expertise</strong> with 
+    <strong style="color: #34495e;">real-world application</strong> — let’s connect!
+  </p>
 </div>
-<div style="flex:1;">  
-   <h3>Education Qualification:</h3>
-  I hold a B.Tech in Computer Engineering and an M.Tech in Computer Science and Engineering with a specialization in Software Engineering, both from Zakir Husain College of Engineering & Technology (ZHCET), Aligarh Muslim University (AMU). <br>
-  <p>If you're looking for someone who blends <strong>research expertise</strong> with <strong>real-world application</strong> — let’s connect!</p>
-</div> 
-</div>
-</div>  
+
 ---
 <div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 18px; line-height: 1.7;">
   <h2 style="text-align: left; margin-bottom: 21px;">📰 News</h2>
