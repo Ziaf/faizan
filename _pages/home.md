@@ -36,9 +36,8 @@ permalink: /
   to solve challenges around 
   <strong>class imbalance</strong>, 
   <strong>long-tailed distributions</strong>, 
-  <strong>bias mitigation</strong>, 
-  <strong>fairness</strong>,and 
-  <strong>xAI</strong>.
+  <strong>bias mitigation</strong>, and 
+  <strong>fairness</strong>.
   </div>
 <div style="flex:1;text-align:right;">
   <img src="assets/images/avtar.png" alt="faizan" style="border-radius:0px;width:180px;height:180px;object-fit:cover;">
@@ -60,7 +59,7 @@ permalink: /
     <span >class imbalance</span>, 
     <span >long-tailed distributions</span>, 
     <span >bias mitigation</span>, 
-    and <span >explainable AI</span>. 
+    and <span >fairness</span>. 
     I am especially interested in enabling generalization through 
     <strong >zero-shot</strong> and 
     <strong >few-shot forecasting</strong>, ensuring AI models remain robust under limited-data scenarios.
