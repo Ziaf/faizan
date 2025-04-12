@@ -5,7 +5,8 @@ author_profile: false
 permalink: /
 ---
 
-<p style="font-size: 1rem; color: #666; margin-top: -0.5rem;">
+<!-- <p style="font-size: 1rem; color: #666; margin-top: -0.5rem;"> -->
+<p style="font-size: 1rem; margin-top: -0.5rem;">  
   <strong>Ph.D. Student</strong>, <em>he/him</em><br>
   <code>faizanuddin_r[æt]isical.ac.in</code>
 </p>
@@ -46,39 +47,39 @@ permalink: /
  <hr style="margin: 15px 0; border: none; border-top: 1px dashed #d5d8dc;">
 <div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 16px; line-height: 1.8; color: #2c3e50;">
   
-  <h3 style="color: #6c3483; margin-bottom: 10px;">🔬 Research Interests</h3>
+  <h3 style="margin-bottom: 10px;">🔬 Research Interests</h3>
   <p>
     <span style="font-weight: 500;">Today’s world runs on data</span>, but not all data is created equal. 
     Models must perform reliably even when data is 
-    <strong style="color: #524d7f;">scarce</strong>, 
-    <strong style="color: #524d7f;">skewed</strong>, or 
-    <strong style="color: #524d7f;">biased</strong> — and that’s exactly where I come in.
+    <strong >scarce</strong>, 
+    <strong >skewed</strong>, or 
+    <strong >biased</strong> — and that’s exactly where I come in.
   </p>
   <p>
     My work focuses on designing algorithms that tackle 
-    <strong style="color: #154360;">real-world data challenges</strong> head-on:  
-    <span style="color: #524d7f;">class imbalance</span>, 
-    <span style="color: #524d7f;">long-tailed distributions</span>, 
-    <span style="color: #524d7f;">bias mitigation</span>, 
-    and <span style="color: #524d7f;">explainable AI</span>. 
+    <strong>real-world data challenges</strong> head-on:  
+    <span >class imbalance</span>, 
+    <span >long-tailed distributions</span>, 
+    <span >bias mitigation</span>, 
+    and <span >explainable AI</span>. 
     I am especially interested in enabling generalization through 
-    <strong style="color: #117864;">zero-shot</strong> and 
-    <strong style="color: #117864;">few-shot forecasting</strong>, ensuring AI models remain robust under limited-data scenarios.
+    <strong >zero-shot</strong> and 
+    <strong >few-shot forecasting</strong>, ensuring AI models remain robust under limited-data scenarios.
   </p>
 
   <hr style="margin: 15px 0; border: none; border-top: 1px dashed #d5d8dc;">
 
-  <h3 style="color: #6c3483; margin-bottom: 10px;">🎓 Education</h3>
+  <h3 style="margin-bottom: 10px;">🎓 Education</h3>
   <p>
-    I hold a <strong style="color: #2e86c1;">B.Tech</strong> in Computer Engineering and an 
-    <strong style="color: #2e86c1;">M.Tech</strong> in Computer Science and Engineering with a specialization in Software Engineering — 
+    I hold a <strong>B.Tech</strong> in Computer Engineering and an 
+    <strong>M.Tech</strong> in Computer Science and Engineering with a specialization in Software Engineering — 
     both from <span style="font-weight: 500;">Zakir Husain College of Engineering & Technology (ZHCET)</span>, 
-    <span style="color: #566573;">Aligarh Muslim University (AMU)</span>.
+    <span>Aligarh Muslim University (AMU)</span>.
   </p>
 
-  <p style="margin-top: 20px; color: #7f8c8d;">
-    If you're looking for someone who blends <strong style="color: #34495e;">research expertise</strong> with 
-    <strong style="color: #34495e;">real-world application</strong> — let’s connect!
+  <p style="margin-top: 20px;">
+    If you're looking for someone who blends <strong>research expertise</strong> with 
+    <strong>real-world application</strong> — let’s connect!
   </p>
 </div>
 
