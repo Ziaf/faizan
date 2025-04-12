@@ -23,10 +23,46 @@ permalink: /
 </div>
 
 <div style="display:flex;align-items:center;justify-content:space-between;">
-  <div style="flex:2;">
+<!--   <div style="flex:2;">
     <p>I'm a <strong>Ph.D. student</strong> affiliated with the <a href="https://www.isical.ac.in/">Indian Statistical Institute, Kolkata</a> </p>
     <p>I hosted and organized the <a href="https://flann.super.site/">FLaNN seminars</a>, an online seminar series on Formal Languages and Neural Networks.</p>
-  </div>
+  </div> -->
+
+ <div style="font-family: 'Segoe UI', sans-serif; line-height: 1.7; color: #333; max-width: 800px; margin: auto;">
+  <h2 style="color: #2c3e50; border-bottom: 2px solid #ecf0f1; padding-bottom: 5px;">About Me</h2>
+
+  <p>
+    I'm a <strong>Ph.D. candidate</strong> at the <a href="https://www.isical.ac.in/" target="_blank" style="color: #2980b9;">Indian Statistical Institute (ISI), Kolkata</a>,
+    working under the supervision of <a href="https://www.isical.ac.in/~swagatam.das/" target="_blank" style="color: #2980b9;">Prof. Swagatam Das</a>
+    in the Electronics and Communication Sciences Unit (ECSU). My research focuses on building <strong>resilient and responsible AI systems</strong> — tackling
+    real-world issues like <em>class imbalance</em>, <em>long-tailed distributions</em>, <em>bias mitigation</em>, and <em>explainability</em>.
+  </p>
+  <blockquote style="font-style: italic; color: #7f8c8d; border-left: 4px solid #bdc3c7; padding-left: 15px; margin: 20px 0;">
+    “Today’s world runs on data — but not all data is created equal. I specialize in building models that work reliably even when data is sparse, biased, or imbalanced.”
+  </blockquote>
+  <p>
+    Currently, I’m a <strong>Research Associate at Ericsson Research</strong>, where I work on scalable AI solutions for real-world use cases like <em>churn prediction</em>
+    and <em>zero-/few-shot time series forecasting</em>. 
+<!--     I also served as a <strong>Co-Principal Investigator</strong> on a smart energy project with CESC Kolkata,
+    developing deep learning models to forecast peak electricity load and optimize procurement strategy. -->
+  </p>
+  <p>
+    I earned my <strong>B.Tech</strong> and <strong>M.Tech</strong> degrees from Zakir Husain College of Engineering & Technology (ZHCET), Aligarh Muslim University(AMU), with a focus on Computer Engineering and
+    Software Engineering respectively.
+  </p>
+  <h3 style="color: #2c3e50; margin-top: 30px;">🔬 Areas of Interest</h3>
+  <ul style="list-style: none; padding-left: 0;">
+    <li>💡 Robust Machine Learning & Deep Learning</li>
+    <li>📊 Long-Tailed and Imbalanced Learning</li>
+    <li>🧠 Explainable & Fair AI</li>
+    <li>🔍 Zero-/Few-Shot Forecasting</li>
+    <li>🧲 Contrastive Learning & Representation Learning</li>
+  </ul>
+  <p style="margin-top: 30px;">
+    If you're looking for someone who blends <strong>research expertise</strong> with <strong>real-world application</strong> — let’s connect!
+  </p>
+</div>
+ 
 
   <div style="flex:1;text-align:right;">
     <img src="assets/images/avtar.png" alt="faizan" style="border-radius:8px;width:200px;height:200px;object-fit:cover;">
