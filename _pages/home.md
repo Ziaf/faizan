@@ -54,8 +54,7 @@ permalink: /
     <strong >skewed</strong>, or 
     <strong >biased</strong>  -->
     — and that’s exactly where I come in.
-  </p>
-  <p>
+    <br>
     My work focuses on designing algorithms that tackle 
     <strong>real-world data challenges</strong> head-on:  
     <span >class imbalance</span>, 
