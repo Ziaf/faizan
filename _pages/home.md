@@ -20,7 +20,35 @@ permalink: /
 
 <div style="display:flex;align-items:center;justify-content:space-between;">
   <div style="flex:2;">
-    <p>I'm a <strong>Ph.D. candidate</strong> at the <a href="https://www.isical.ac.in" target="_blank" style="color: #2980b9;">Indian Statistical Institute (ISI), Kolkata</a>, working under the supervision of <a href="https://www.isical.ac.in/~swagatam.das/" target="_blank" style="color: #2980b9;">Prof. Swagatam Das</a> in the Electronics and Communication Sciences Unit (ECSU).<br> Today’s world runs on data, but not all data is created equal. Models must perform reliably even when data is scarce, skewed, or biased—and that’s exactly where I come in. I design algorithms that tackle real-world data challenges head-on: handling imbalance, enhancing fairness, and enabling generalization through zero-shot and few-shot forecasting. <br> My doctoral research focuses on developing <strong>resilient deep learning models</strong> for tackling real-world issues like <em>class imbalance</em>, <em>long-tailed distributions</em>, <em>bias mitigation</em>, and <em>explainability</em>. </p>
+    <p style="font-family: 'Segoe UI', sans-serif; font-size: 16px; line-height: 1.8; color: #2c3e50; max-width: 800px;">
+  I'm a 
+  <strong style="color: #8e44ad; font-weight: 600;">Ph.D. candidate</strong> 
+  at the 
+  <a href="https://www.isical.ac.in" target="_blank" style="color: #2980b9; font-weight: 500;">Indian Statistical Institute (ISI), Kolkata</a>, 
+  working under the supervision of 
+  <a href="https://www.isical.ac.in/~swagatam.das/" target="_blank" style="color: #2980b9; font-weight: 500;">Prof. Swagatam Das</a> 
+  in the <span style="color: #7f8c8d; font-style: italic;">Electronics and Communication Sciences Unit (ECSU)</span>.
+  <br><br>
+  <span style="color: #4a235a; font-weight: 500;">Today’s world runs on data</span>, but not all data is created equal. 
+  Models must perform reliably even when data is <strong style="color: #c0392b;">scarce</strong>, 
+  <strong style="color: #c0392b;">skewed</strong>, or <strong style="color: #c0392b;">biased</strong> — 
+  and that’s exactly where I come in.
+  <br><br>
+  I design algorithms that tackle <strong style="color: #2471a3;">real-world data challenges</strong> head-on: 
+  <em style="color: #7d3c98;">handling imbalance</em>, 
+  <em style="color: #7d3c98;">enhancing fairness</em>, and 
+  <em style="color: #7d3c98;">enabling generalization</em> through 
+  <strong style="color: #17a589;">zero-shot</strong> and 
+  <strong style="color: #17a589;">few-shot forecasting</strong>. 
+  <br><br>
+  My doctoral research focuses on building 
+  <strong style="color: #d35400;">resilient deep learning models</strong> 
+  to solve challenges around 
+  <em style="color: #5d6d7e;">class imbalance</em>, 
+  <em style="color: #5d6d7e;">long-tailed distributions</em>, 
+  <em style="color: #5d6d7e;">bias mitigation</em>, and 
+  <em style="color: #5d6d7e;">explainability</em>.
+</p>
   </div>
 <div style="flex:1;text-align:right;">
   <img src="assets/images/avtar.png" alt="faizan" style="border-radius:0px;width:220px;height:220px;object-fit:cover;">
