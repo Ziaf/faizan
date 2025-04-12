@@ -46,6 +46,7 @@ permalink: /
 </div> 
 </div>
 ---
+<div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 22px;">
  <div style="display:flex; gap: 2rem;">
 <div style="flex:1;">
  <p style="margin-top: 10px;"> 
@@ -66,6 +67,7 @@ permalink: /
     If you're looking for someone who blends <strong>research expertise</strong> with <strong>real-world application</strong> — let’s connect!
   </p>
 </div> 
+</div>
 </div>
 ---
 
