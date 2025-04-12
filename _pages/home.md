@@ -56,11 +56,11 @@ permalink: /
   <strong style="color: #c0392b;">skewed</strong>, or <strong style="color: #c0392b;">biased</strong> — 
   and that’s exactly where I come in.
   I design algorithms that tackle <strong>real-world data challenges</strong> head-on: 
-  <em style="color: #7d3c98;">handling imbalance</em>, 
-  <em style="color: #7d3c98;">enhancing fairness</em>, and 
-  <em style="color: #7d3c98;">enabling generalization</em> through 
-  <strong style="color: #7d3c98;">zero-shot</strong> and 
-  <strong style="color: #7d3c98;">few-shot forecasting</strong>. 
+  <strong style="color: #524d7f;">handling imbalance</strong>, 
+  <strong style="color: #524d7f;">enhancing fairness</strong>, and 
+  <strong style="color: #524d7f;">enabling generalization</strong> through 
+  <strong style="color: #524d7f;">zero-shot</strong> and 
+  <strong style="color: #524d7f;">few-shot forecasting</strong>. 
  </p>
  <p> 
   I hold a B.Tech in Computer Engineering and an M.Tech in Computer Science and Engineering with a specialization in Software Engineering, both from Zakir Husain College of Engineering & Technology (ZHCET), Aligarh Muslim University (AMU). <br>
