@@ -19,7 +19,7 @@ permalink: /
   <a href="https://medium.com/@faizanansari541"><img src="assets/medium (1).svg" alt="Icon" class="icon">Medium</a> </p>
 </div> -->
 
-<div style="display:flex;align-items:center;justify-content:space-between;">
+<div style="display:flex;align-items:center;justify-content:space-evenly;">
   <div style="flex:2;">
  <!--   <strong style="font-size: 1rem; color: #666; margin-top: -0.5rem;">Bio: </strong>
    <p style="font-size: 16px; line-height: 1.8; color: #2c3e50; max-width: 800px;"> -->
