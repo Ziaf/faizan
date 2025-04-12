@@ -8,7 +8,8 @@ Below is a list of my publications.
 
 <table style="width: 100%; table-layout: auto; border-collapse: collapse; font-family: 'Segoe UI', sans-serif; font-size: 15px; line-height: 1.6;">
   <thead>
-    <tr style="background-color: #f8f9fa;">
+<!--     <tr style="background-color: #f8f9fa;"> -->
+    <tr>
       <th style="text-align: left; white-space: nowrap; padding: 10px;">Date</th>
       <th style="text-align: left; padding: 10px;">Visual Insight</th>
       <th style="text-align: left; padding: 10px;">Citation</th>
