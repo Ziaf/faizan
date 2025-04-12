@@ -25,7 +25,7 @@ permalink: /
    <p style="font-size: 16px; line-height: 1.8; color: #2c3e50; max-width: 800px;"> -->
   <p>
   I'm a 
-  <strong style="color: #8e44ad; font-weight: 600;">Ph.D. candidate</strong> 
+  <strong style="color: #000000; font-weight: 600;">Ph.D. candidate</strong> 
   at the 
   <a href="https://www.isical.ac.in" target="_blank" style="color: #2980b9; font-weight: 500;">Indian Statistical Institute (ISI), Kolkata</a>, 
   working under the supervision of 
@@ -52,13 +52,13 @@ permalink: /
     <span style="font-weight: 500;">Today’s world runs on data</span>, but not all data is created equal. 
   Models must perform reliably even when data is <strong style="color: #c0392b;">scarce</strong>, 
   <strong style="color: #c0392b;">skewed</strong>, or <strong style="color: #c0392b;">biased</strong> — 
-  and that’s exactly where I come in. <br>
+  and that’s exactly where I come in.
   I design algorithms that tackle <strong>real-world data challenges</strong> head-on: 
   <em style="color: #7d3c98;">handling imbalance</em>, 
   <em style="color: #7d3c98;">enhancing fairness</em>, and 
   <em style="color: #7d3c98;">enabling generalization</em> through 
-  <strong style="color: #17a589;">zero-shot</strong> and 
-  <strong style="color: #17a589;">few-shot forecasting</strong>. 
+  <strong style="color: #7d3c98;">zero-shot</strong> and 
+  <strong style="color: #7d3c98;">few-shot forecasting</strong>. 
  </p>
  <p> 
    I hold a B.Tech and M.Tech in Computer Engineering and Software Engineering respectively, from Zakir Husain College of Engineering & Technology (ZHCET), Aligarh Muslim University (AMU). <br>
