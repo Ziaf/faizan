@@ -24,7 +24,7 @@ Below is a list of my publications.
         Ansari, F., Chakraborti, T., & Das, S. (2024). <strong>Algorithmic Fairness in Lesion Classification by Mitigating Class Imbalance and Skin Tone Bias.</strong> 
         <em>International Conference on Medical Image Computing and Computer-Assisted Intervention</em>, 373–382. Springer Nature Switzerland Cham.
       </td>
-      <td><a href="https://link.springer.com/chapter/10.1007/978-3-031-12345-6_29" target="_blank"><span><i class="fas fa-scroll"></i></span>Paper</a></td>
+      <td><a href="https://link.springer.com/chapter/10.1007/978-3-031-12345-6_29" target="_blank"><span><i class="fas fa-scroll"></i>Paper</span></a></td>
     </tr>
     <tr>
       <td style="white-space: nowrap; padding: 10px;">2024</td>
@@ -33,7 +33,7 @@ Below is a list of my publications.
         Mondal, P., Ansari, F., & Das, S. (2024). <strong>CCO: A cluster core-based oversampling technique for improved class-imbalanced learning.</strong> 
         <em>IEEE Transactions on Emerging Topics in Computational Intelligence</em>.
       </td>
-      <td><a href="https://doi.org/10.1109/TETCI.2024.1234567" target="_blank"><span><i class="fas fa-scroll"></i></span>Paper</a></td>
+      <td><a href="https://doi.org/10.1109/TETCI.2024.1234567" target="_blank"><span><i class="fas fa-scroll"></i>Paper</span></a></td>
     </tr>
     <tr>
       <td style="white-space: nowrap; padding: 10px;">2024</td>
@@ -42,7 +42,7 @@ Below is a list of my publications.
         Ansari, F., Bhattacharya, A., Saha, B., & Das, S. (2024). <strong>Mo2E: Mixture of Two Experts for Class-Imbalanced Learning from Medical Images.</strong> 
         <em>2024 IEEE International Symposium on Biomedical Imaging (ISBI)</em>, 1–5. IEEE.
       </td>
-      <td><a href="https://doi.org/10.1109/ISBI.2024.1234567" target="_blank"><span><i class="fas fa-scroll"></i></span>Paper</a></td>
+      <td><a href="https://doi.org/10.1109/ISBI.2024.1234567" target="_blank"><span><i class="fas fa-scroll"></i>Paper</span></a></td>
     </tr>
     <tr>
       <td style="white-space: nowrap; padding: 10px;">2023</td>
@@ -51,7 +51,7 @@ Below is a list of my publications.
         Ansari, F., Das, S., & Shamsolmoali, P. (2023). <strong>Handling class imbalance by estimating minority class statistics.</strong> 
         <em>2023 International Joint Conference on Neural Networks (IJCNN)</em>, 1–8. IEEE.
       </td>
-      <td><a href="https://ieeexplore.ieee.org/document/10123456" target="_blank"><span><i class="fas fa-scroll"></i></span>Paper</a></td>
+      <td><a href="https://ieeexplore.ieee.org/document/10123456" target="_blank"><span><i class="fas fa-scroll"></i>Paper</span></a></td>
     </tr>
   </tbody>
 </table>
