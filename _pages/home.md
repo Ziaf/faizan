@@ -74,7 +74,7 @@ permalink: /
 </div>
 ---
 
-<div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 20px;">
+<div style="max-width: 800px; margin: 50px auto;">
   <h2 style="text-align: left; color: #6c3483; margin-bottom: 20px;">📰 News</h2>
 
   <table style="width: 100%; border-collapse: collapse; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);">
@@ -86,27 +86,27 @@ permalink: /
     </thead>
     <tbody>
       <tr style="background-color: #f9f9f9;">
-        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #2e4053;"><strong>Apr 2025</strong></td>
+        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #2e4053;"><strong>May 2024</strong></td>
         <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #4a148c;">
-          Paper accepted at MICCAI 2024 on fairness in skin tone classification.
+          Presented my research (poster) in IEEE ISBI 2024, Athens, Greece.
         </td>
       </tr>
       <tr style="background-color: #ffffff;">
-        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #2e4053;"><strong>Mar 2025</strong></td>
+        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #2e4053;"><strong>May 2024</strong></td>
         <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #4a148c;">
-          Joined Ericsson Research as a Research Associate working on few-shot forecasting.
+          Our work on [CCO: A Cluster Core-based Oversampling Technique for Improved Class-Imbalanced Learning](https://ieeexplore.ieee.org/document/10555431) has been published in [IEEE TETCI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297).
         </td>
       </tr>
       <tr style="background-color: #f9f9f9;">
-        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #2e4053;"><strong>Feb 2025</strong></td>
+        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #2e4053;"><strong>February 2024</strong></td>
         <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #4a148c;">
-          Our TETCI paper on dual-branch mixup strategy for long-tailed learning got accepted.
+         (Poster) Paper on Mo2E: Mixture of Two Experts for Class-Imbalanced Learning from Medical Images accepted in the [IEEE ISBI 2024](https://biomedicalimaging.org/2024/). [Paper](https://ieeexplore.ieee.org/document/10635212).
         </td>
       </tr>
       <tr style="background-color: #ffffff;">
-        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #2e4053;"><strong>Jan 2025</strong></td>
+        <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #2e4053;"><strong>April 2023</strong></td>
         <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #4a148c;">
-          Presented work on minority class calibration at IJCNN 2023 in Gold Coast.
+         (Oral,Poster) Paper on Handling Class Imbalance by Estimating Minority Class Statistics accepted in the [IEEE IJCNN 2023](https://2023.ijcnn.org/). [paper](https://ieeexplore.ieee.org/document/10191975) .
         </td>
       </tr>
     </tbody>
