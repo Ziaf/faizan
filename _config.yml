@@ -96,7 +96,7 @@ author:
   avatar: "assets/images/avtar.jpg"
   bio: "Research Fellow || CS || ISI"
   location: "Kolkata, West Bengal, India"
-  email: "faizanuddin_r@isical.ac.in"
+  # email: "faizanuddin_r@isical.ac.in"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
