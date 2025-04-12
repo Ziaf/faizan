@@ -20,7 +20,7 @@ permalink: /
 
 <div style="display:flex;align-items:center;justify-content:space-between;">
   <div style="flex:2;">
-    <p>I'm a <strong>Ph.D. student</strong> affiliated with the <a href="https://www.umu.se/en/research/groups/foundations-of-language-processing/">Foundations of Language Processing research group</a> at Umeå University, focusing on neural network interpretability through formal language theory.</p>
+    <p>I'm a <strong>Ph.D. candidate</strong> at the <a href="https://www.isical.ac.in" target="_blank" style="color: #2980b9;">Indian Statistical Institute (ISI), Kolkata</a>, working under the supervision of <a href="https://www.isical.ac.in/~swagatam.das/" target="_blank" style="color: #2980b9;">Prof. Swagatam Das</a> in the Electronics and Communication Sciences Unit (ECSU). My research focuses on building <strong>resilient and responsible AI systems</strong> — tackling real-world issues like <em>class imbalance</em>, <em>long-tailed distributions</em>, <em>bias mitigation</em>, and <em>explainability</em>. </p>
     <p>I hosted and organized the <a href="https://flann.super.site/">FLaNN seminars</a>, an online seminar series on Formal Languages and Neural Networks.</p>
   </div>
 
