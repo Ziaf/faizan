@@ -28,19 +28,16 @@ permalink: /
   working under the supervision of 
   <a href="https://www.isical.ac.in/~swagatam.das/" target="_blank" style="color: #2980b9; font-weight: 500;">Prof. Swagatam Das</a> 
   in the <span style="color: #7f8c8d; font-style: italic;">Electronics and Communication Sciences Unit (ECSU)</span>.
-  <br><br>
   <span style="color: #4a235a; font-weight: 500;">Today’s world runs on data</span>, but not all data is created equal. 
   Models must perform reliably even when data is <strong style="color: #c0392b;">scarce</strong>, 
   <strong style="color: #c0392b;">skewed</strong>, or <strong style="color: #c0392b;">biased</strong> — 
   and that’s exactly where I come in.
-  <br><br>
   I design algorithms that tackle <strong style="color: #2471a3;">real-world data challenges</strong> head-on: 
   <em style="color: #7d3c98;">handling imbalance</em>, 
   <em style="color: #7d3c98;">enhancing fairness</em>, and 
   <em style="color: #7d3c98;">enabling generalization</em> through 
   <strong style="color: #17a589;">zero-shot</strong> and 
   <strong style="color: #17a589;">few-shot forecasting</strong>. 
-  <br><br>
   My doctoral research focuses on building 
   <strong style="color: #d35400;">resilient deep learning models</strong> 
   to solve challenges around 
@@ -67,7 +64,7 @@ permalink: /
 
 ---
 
-<div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 16px;">
+<div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 25px;">
   <h2 style="text-align: center; color: #6c3483; margin-bottom: 20px;">📰 Latest News</h2>
 
   <table style="width: 100%; border-collapse: collapse; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);">
