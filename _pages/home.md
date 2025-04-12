@@ -28,10 +28,10 @@ permalink: /
     <p>I hosted and organized the <a href="https://flann.super.site/">FLaNN seminars</a>, an online seminar series on Formal Languages and Neural Networks.</p>
   </div> -->
  <div style="flex:2;">
-  <p>I'm a <strong>Ph.D. candidate</strong> at the <a href="https://www.isical.ac.in/" target="_blank" style="color: #2980b9;">Indian Statistical Institute (ISI), Kolkata</a>, working under the supervision of <a href="https://www.isical.ac.in/~swagatam.das/" target="_blank" style="color: #2980b9;">Prof. Swagatam Das</a> in the Electronics and Communication Sciences Unit (ECSU). My research focuses on building <strong>resilient and responsible AI systems</strong> — tackling real-world issues like <em>class imbalance</em>, <em>long-tailed distributions</em>, <em>bias mitigation</em>, and <em>explainability</em>. </div>
+  <p>I'm a <strong>Ph.D. candidate</strong> at the <a href="https://www.isical.ac.in/" target="_blank" style="color: #2980b9;">Indian Statistical Institute (ISI), Kolkata</a>, working under the supervision of <a href="https://www.isical.ac.in/~swagatam.das/" target="_blank" style="color: #2980b9;">Prof. Swagatam Das</a> in the Electronics and Communication Sciences Unit (ECSU). My research focuses on building <strong>resilient and responsible AI systems</strong> — tackling real-world issues like <em>class imbalance</em>, <em>long-tailed distributions</em>, <em>bias mitigation</em>, and <em>explainability</em>. </div> </div>
 <div style="flex:1;text-align:right;">
 <img src="assets/images/avtar.png" alt="faizan" style="border-radius:8px;width:200px;height:200px;object-fit:cover;">
-</div> </div>
+</div> 
 
 ---
 <!--
