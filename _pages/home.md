@@ -74,7 +74,7 @@ permalink: /
 </div>
 ---
 
-<div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 20px; line-height: 1.7;">
+<div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 22px; line-height: 1.7;">
   <h2 style="text-align: left; color: #5a2a82; margin-bottom: 20px;">📰 News</h2>
 
   <table style="width: 100%; border-collapse: collapse; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);">
