@@ -42,7 +42,7 @@ permalink: /
 </p>
   </div>
 <div style="flex:1;text-align:right;">
-  <img src="assets/images/avtar.png" alt="faizan" style="border-radius:0px;width:200px;height:200px;object-fit:cover;">
+  <img src="assets/images/avtar.png" alt="faizan" style="border-radius:0px;width:180px;height:180px;object-fit:cover;">
 </div> 
 </div>
 ---
