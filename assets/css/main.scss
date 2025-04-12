@@ -87,6 +87,16 @@ html {
     @include breakpoint($x-large) {
       font-size: 18px; // change to whatever
     }
+      @include breakpoint($medium) {
+      .main {
+        max-width: 90%;
+      }
+    }
+    @include breakpoint($large) {
+      .main {
+        max-width: 85%;
+      }
+    }
   }
 
 // 2023-12-12: Still don't really understand scss... oh well
