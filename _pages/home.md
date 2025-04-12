@@ -59,6 +59,8 @@ permalink: /
   <em style="color: #7d3c98;">enabling generalization</em> through 
   <strong style="color: #17a589;">zero-shot</strong> and 
   <strong style="color: #17a589;">few-shot forecasting</strong>. 
+ </p>
+ <p> 
    I hold a B.Tech and M.Tech in Computer Engineering and Software Engineering respectively, from Zakir Husain College of Engineering & Technology (ZHCET), Aligarh Muslim University (AMU). <br>
     If you're looking for someone who blends <strong>research expertise</strong> with <strong>real-world application</strong> — let’s connect!
   </p>
