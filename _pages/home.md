@@ -28,19 +28,9 @@ permalink: /
   <a href="https://www.isical.ac.in" target="_blank" style="color: #2980b9; font-weight: 500;">Indian Statistical Institute (ISI), Kolkata</a>, 
   working under the supervision of 
   <a href="https://www.isical.ac.in/~swagatam.das/" target="_blank" style="color: #2980b9; font-weight: 500;">Prof. Swagatam Das</a> 
-  in the <span style="font-style: italic;">Electronics and Communication Sciences Unit (ECSU)</span>. <br> 
-  <span style="font-weight: 500;">Today’s world runs on data</span>, but not all data is created equal. 
-  Models must perform reliably even when data is <strong style="color: #c0392b;">scarce</strong>, 
-  <strong style="color: #c0392b;">skewed</strong>, or <strong style="color: #c0392b;">biased</strong> — 
-  and that’s exactly where I come in. <br>
-  I design algorithms that tackle <strong>real-world data challenges</strong> head-on: 
-  <em style="color: #7d3c98;">handling imbalance</em>, 
-  <em style="color: #7d3c98;">enhancing fairness</em>, and 
-  <em style="color: #7d3c98;">enabling generalization</em> through 
-  <strong style="color: #17a589;">zero-shot</strong> and 
-  <strong style="color: #17a589;">few-shot forecasting</strong>. 
+  in the <span style="font-style: italic;">Electronics and Communication Sciences Unit (ECSU)</span>.
   My doctoral research focuses on building 
-  <strong style="color: #d35400;">resilient deep learning models</strong> 
+  <strong>resilient deep learning models</strong> 
   to solve challenges around 
   <em style="color: #5d6d7e;">class imbalance</em>, 
   <em style="color: #5d6d7e;">long-tailed distributions</em>, 
@@ -52,7 +42,18 @@ permalink: /
   <img src="assets/images/avtar.png" alt="faizan" style="border-radius:0px;width:200px;height:200px;object-fit:cover;">
 </div> 
 </div>
- <p style="margin-top: 10px;"> I hold a B.Tech and M.Tech in Computer Engineering and Software Engineering respectively, from Zakir Husain College of Engineering & Technology (ZHCET), Aligarh Muslim University (AMU). <br>
+ <p style="margin-top: 10px;"> 
+    <span style="font-weight: 500;">Today’s world runs on data</span>, but not all data is created equal. 
+  Models must perform reliably even when data is <strong style="color: #c0392b;">scarce</strong>, 
+  <strong style="color: #c0392b;">skewed</strong>, or <strong style="color: #c0392b;">biased</strong> — 
+  and that’s exactly where I come in. <br>
+  I design algorithms that tackle <strong>real-world data challenges</strong> head-on: 
+  <em style="color: #7d3c98;">handling imbalance</em>, 
+  <em style="color: #7d3c98;">enhancing fairness</em>, and 
+  <em style="color: #7d3c98;">enabling generalization</em> through 
+  <strong style="color: #17a589;">zero-shot</strong> and 
+  <strong style="color: #17a589;">few-shot forecasting</strong>. 
+   I hold a B.Tech and M.Tech in Computer Engineering and Software Engineering respectively, from Zakir Husain College of Engineering & Technology (ZHCET), Aligarh Muslim University (AMU). <br>
     If you're looking for someone who blends <strong>research expertise</strong> with <strong>real-world application</strong> — let’s connect!
   </p>
 
