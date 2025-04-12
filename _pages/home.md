@@ -50,7 +50,7 @@ permalink: /
  <div style="display:flex; gap: 2rem;">
 <div style="flex:1;">
  <p style="margin-top: 10px;"> 
-  <strong style="font-size: 1rem; color: #666; margin-top: -0.5rem;">Research Interest: </strong> <br>
+  <strong style="color: #2980b9; font-weight: 600; margin-top: -0.5rem;">Research Interest: </strong> <br>
     <span style="font-weight: 500;">Today’s world runs on data</span>, but not all data is created equal. 
   Models must perform reliably even when data is <strong style="color: #c0392b;">scarce</strong>, 
   <strong style="color: #c0392b;">skewed</strong>, or <strong style="color: #c0392b;">biased</strong> — 
