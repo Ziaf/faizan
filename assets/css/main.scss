@@ -99,6 +99,13 @@ html {
     }
   }
 
+body {
+  max-width: 100%; // Ensure there's no width limit imposed globally
+  margin: 0 auto;
+  padding: 0 1.5rem; // Add some padding to sides
+}
+
+
 // 2023-12-12: Still don't really understand scss... oh well
 // 2022-05-17: This changes the code box. Do you wonder how you can find this out yourself?
 // Use the inspect tool and look at which class you are selecting. This one
