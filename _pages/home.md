@@ -10,14 +10,14 @@ permalink: /
   <code>faizanuddin_r[æt]isical.ac.in</code>
 </p>
 
-<div style="display:flex;align-items:center;justify-content:space-between;">
+<!-- <div style="display:flex;align-items:center;justify-content:space-between;">
   <p>
   <a href="mailto:faizanansari541@gmail.com"><img src="assets/envelope-solid.svg" alt="Icon" class="icon">Email</a> |
   <a href="https://drive.google.com/file/d/17wYiveh-a3hAipuxYDci_8lSCnS9-BHY/view"><img src="assets/file-solid.svg" alt="Icon" class="icon">CV</a> |<a href="https://github.com/ziaf/"><img src="assets/github.svg" alt="Icon" class="icon">Github</a> |
   <a href="https://scholar.google.com/"><img src="assets/google-scholar.svg" alt="Icon" class="icon">Google Scholar</a> |
   <a href="https://orcid.org/0009-0009-5517-8846"><img src="assets/orcid.svg" alt="Icon" class="icon">Orcid</a> |
   <a href="https://medium.com/@faizanansari541"><img src="assets/medium (1).svg" alt="Icon" class="icon">Medium</a> </p>
-</div>
+</div> -->
 
 <div style="display:flex;align-items:center;justify-content:space-between;">
   <div style="flex:2;">
