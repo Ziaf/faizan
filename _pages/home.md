@@ -24,7 +24,7 @@ permalink: /
   </div>
 <div style="flex:1;text-align:right;">
   <img src="assets/images/avtar.png" alt="faizan" style="border-radius:0px;width:150px;height:150px;object-fit:cover;">
-  <h3 style="color: #2c3e50; margin-top: 0px;">🔬 Areas of Interest</h3>
+  <h3 style="color: #2c3e50; margin-top: 10px; text-align:left;">🔬 Areas of Interest</h3>
   <ul style="list-style: none; padding-left:0;text-align:left;">
     <li>📊 Long-Tailed and Imbalanced Learning</li>
     <li>🧠 Explainable & Fair AI</li>
