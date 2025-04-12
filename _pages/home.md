@@ -63,6 +63,7 @@ permalink: /
   <strong style="color: #524d7f;">few-shot forecasting</strong>. 
  </p>
  <p> 
+  <strong style="color: #2980b9; font-weight: 600; margin-top: -0.5rem;">Education Qualification: </strong> <br> 
   I hold a B.Tech in Computer Engineering and an M.Tech in Computer Science and Engineering with a specialization in Software Engineering, both from Zakir Husain College of Engineering & Technology (ZHCET), Aligarh Muslim University (AMU). <br>
     If you're looking for someone who blends <strong>research expertise</strong> with <strong>real-world application</strong> — let’s connect!
   </p>
@@ -71,7 +72,7 @@ permalink: /
 </div>
 ---
 
-<div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 22px;">
+<div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 18px;">
   <h2 style="text-align: left; color: #6c3483; margin-bottom: 20px;">📰 News</h2>
 
   <table style="width: 100%; border-collapse: collapse; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);">
