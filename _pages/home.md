@@ -45,9 +45,8 @@ permalink: /
 </div> 
 </div>
  <hr style="margin: 15px 0; border: none; border-top: 1px solid #d5d8dc;">
-<div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 16px; line-height: 1.8; color: #2c3e50;">
-  
-  <h3 style="margin-bottom: 10px;">🔬 Research Interests</h3>
+<div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 16px; line-height: 1.8;">
+  <h3>🔬 Research Interests</h3>
   <p>
     <span >Today’s world runs on data</span>, but not all data is created equal. 
     Models must perform reliably even when data is 
@@ -69,15 +68,14 @@ permalink: /
 
   <hr style="margin: 15px 0; border: none; border-top: 1px solid #d5d8dc;">
 
-  <h3 style="margin-bottom: 10px;">🎓 Education</h3>
+  <h3>🎓 Education</h3>
   <p>
     I hold a <strong>B.Tech</strong> in Computer Engineering and an 
     <strong>M.Tech</strong> in Computer Science and Engineering with a specialization in Software Engineering — 
     both from <span >Zakir Husain College of Engineering & Technology (ZHCET)</span>, 
     <span>Aligarh Muslim University (AMU)</span>.
   </p>
-
-  <p style="margin-top: 20px;">
+  <p>
     If you're looking for someone who blends <strong>research expertise</strong> with 
     <strong>real-world application</strong> — let’s connect!
   </p>
