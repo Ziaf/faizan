@@ -23,7 +23,6 @@ permalink: /
   <div style="flex:2;">
  <!--   <strong style="font-size: 1rem; color: #666; margin-top: -0.5rem;">Bio: </strong>
    <p style="font-size: 16px; line-height: 1.8; color: #2c3e50; max-width: 800px;"> -->
-  <p>
   I'm a 
   <strong style="color: #000000; font-weight: 600;">Ph.D. fellow</strong> 
   at the 
@@ -38,8 +37,7 @@ permalink: /
   <strong>long-tailed distributions</strong>, 
   <strong>bias mitigation</strong>, 
   <strong>fairness</strong>,and 
-  <strong>xAI</strong>.
-</p> <span style="font-weight: 500;">Today’s world runs on data</span>, but not all data is created equal. 
+  <strong>xAI</strong>.<br> <span style="font-weight: 500;">Today’s world runs on data</span>, but not all data is created equal. 
   Models must perform reliably even when data is <strong style="color: #524d7f;">scarce</strong>, 
   <strong style="color: #524d7f;">skewed</strong>, or <strong style="color: #524d7f;">biased</strong> — 
   and that’s exactly where I come in.
@@ -48,7 +46,7 @@ permalink: /
   <strong style="color: #524d7f;">enhancing fairness</strong>, and 
   <strong style="color: #524d7f;">enabling generalization</strong> through 
   <strong style="color: #524d7f;">zero-shot</strong> and 
-  <strong style="color: #524d7f;">few-shot forecasting</strong>. 
+  <strong style="color: #524d7f;">few-shot forecasting</strong>. <br>
     I hold a B.Tech in Computer Engineering and an M.Tech in Computer Science and Engineering with a specialization in Software Engineering, both from Zakir Husain College of Engineering & Technology (ZHCET), Aligarh Muslim University (AMU). <br>
   <p>If you're looking for someone who blends <strong>research expertise</strong> with <strong>real-world application</strong> — let’s connect!</p>
   </div>
