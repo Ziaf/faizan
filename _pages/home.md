@@ -26,6 +26,11 @@ permalink: /
     <img src="assets/images/avtar.png" alt="faizan" style="border-radius:8px;width:200px;height:200px;object-fit:cover;">
   </div>
 </div>
+<div style="flex:1;">
+  <blockquote style="font-style: italic; color: #A0E7E5; border-left: 0px solid #bdc3c7; padding-left: 0px; margin: 20px 0;">
+    “Today’s world runs on data — but not all data is created equal. I specialize in building models that work reliably even when data is sparse, biased, or imbalanced.”
+  </blockquote>
+</div>
 
 
 ---
