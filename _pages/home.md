@@ -34,10 +34,10 @@ permalink: /
   My doctoral research focuses on building 
   <strong>resilient deep learning models</strong> 
   to solve challenges around 
-  <em style="color: #000000;">class imbalance</em>, 
-  <em style="color: #000000;">long-tailed distributions</em>, 
-  <em style="color: #000000;">bias mitigation</em>, and 
-  <em style="color: #000000;">xAI</em>.
+  <strong style="color: #000000;">class imbalance</strong>, 
+  <strong style="color: #000000;">long-tailed distributions</strong>, 
+  <strong style="color: #000000;">bias mitigation</strong>, and 
+  <strong style="color: #000000;">xAI</strong>.
 </p>
   </div>
 <div style="flex:1;text-align:right;">
