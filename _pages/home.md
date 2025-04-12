@@ -68,7 +68,6 @@ permalink: /
 <!-- </div> -->
 </div>
   <br>
-  <br>
   <p>If you're looking for someone who blends <strong>research expertise</strong> with <strong>real-world application</strong> — let’s connect!</p>
 <!-- </div>   -->
 ---
