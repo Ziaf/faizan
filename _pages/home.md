@@ -29,7 +29,7 @@ permalink: /
   </div> -->
 
  <div style="font-family: 'Segoe UI', sans-serif; line-height: 1.7; color: #333; max-width: 800px; margin: auto;">
-  <h2 style="color: #2c3e50; border-bottom: 2px solid #ecf0f1; padding-bottom: 5px;">About Me</h2>
+<!--   <h2 style="color: #2c3e50; border-bottom: 2px solid #ecf0f1; padding-bottom: 5px;">About Me</h2> -->
 
   <p>
     I'm a <strong>Ph.D. candidate</strong> at the <a href="https://www.isical.ac.in/" target="_blank" style="color: #2980b9;">Indian Statistical Institute (ISI), Kolkata</a>,
