@@ -78,7 +78,7 @@ permalink: /
 <!-- </div> -->
 <!-- </div>   -->
 ---
-<div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 18px; line-height: 1.7;">
+<div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 16px; line-height: 1.7;">
   <h2 style="text-align: left; color: #5a2a82; margin-bottom: 21px;">📰 News</h2>
   <!-- Scrollable wrapper -->
   <div style="max-height: 500px; overflow-y: auto; border: 1px solid #ecf0f1; border-radius: 8px;">
