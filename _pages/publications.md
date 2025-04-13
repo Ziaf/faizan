@@ -25,7 +25,7 @@ Below is a list of my publications.
   <tbody>
     <tr>
       <td style="white-space: nowrap; padding: 10px;">2025</td>
-      <td><img src="/assets/publications/minority_statistics.jpg" onerror="this.src='error.jpg';this.onerror='';" width="200"></td>
+      <td><img src="/assets/publications/mot_diag.png" onerror="this.src='error.jpg';this.onerror='';" width="200"></td>
       <td>
         Mondal, P., Ansari, F., Das, S., & Shamsolmoali, P. (2025). <strong>Force of Attraction-Based Distribution Calibration for Enhancing Minority Class Representation.</strong> 
         <em>2025 International Joint Conference on Neural Networks (IJCNN)</em>. IEEE.
@@ -40,7 +40,7 @@ Below is a list of my publications.
     </tr>
     <tr>
       <td style="white-space: nowrap; padding: 10px;">2025</td>
-      <td><img src="/assets/publications/cco_oversampling.jpg" onerror="this.src='error.jpg';this.onerror='';" width="200"></td>
+      <td><img src="/assets/publications/goldilock.png" onerror="this.src='error.jpg';this.onerror='';" width="200"></td>
       <td>
         Ansari, F., Panigrahi, A., & Das, S. (2024). <strong>The Goldilocks Principle: Achieving Just Right Boundary Fidelity for Long-Tailed Classification.</strong> 
         <em>IEEE Transactions on Emerging Topics in Computational Intelligence</em>.         
