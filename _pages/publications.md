@@ -5,8 +5,8 @@ permalink: /publications/
 ---
 
 Below is a list of my publications.
-
-<table style="width: 100%; table-layout: auto; border-collapse: collapse; font-family: 'Segoe UI', sans-serif; font-size: 12px; line-height: 1.6;">
+<div style="max-width: 100%; overflow-x: auto; margin: 30px 0;">
+  <table style="width: 100%; min-width: 900px; table-layout: auto; border-collapse: collapse; font-family: 'Segoe UI', sans-serif; font-size: 15px; line-height: 1.6;">
   <thead>
 <!--     <tr style="background-color: #f8f9fa;"> -->
     <tr>
@@ -17,6 +17,24 @@ Below is a list of my publications.
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td style="white-space: nowrap; padding: 10px;">2025</td>
+      <td><img src="/assets/publications/minority_statistics.jpg" onerror="this.src='error.jpg';this.onerror='';" width="200"></td>
+      <td>
+        Mondal, P., Ansari, F., Das, S., & Shamsolmoali, P. (2025). <strong>Force of Attraction-Based Distribution Calibration for Enhancing Minority Class Representation.</strong> 
+        <em>2025 International Joint Conference on Neural Networks (IJCNN)</em>. IEEE.
+      </td>
+      <td><a href="https://ieeexplore.ieee.org/" target="_blank"><span><i class="fas fa-scroll"></i>Available Soon</span></a></td>
+    </tr>
+    <tr>
+      <td style="white-space: nowrap; padding: 10px;">2025</td>
+      <td><img src="/assets/publications/cco_oversampling.jpg" onerror="this.src='error.jpg';this.onerror='';" width="200"></td>
+      <td>
+        Ansari, F., Panigrahi, A., & Das, S. (2024). <strong>The Goldilocks Principle: Achieving Just Right Boundary Fidelity for Long-Tailed Classification.</strong> 
+        <em>IEEE Transactions on Emerging Topics in Computational Intelligence</em>.
+      </td>
+      <td><a href="https://ieeexplore.ieee.org/" target="_blank"><span><i class="fas fa-scroll"></i>Available Soon</span></a></td>
+    </tr>
     <tr>
       <td style="white-space: nowrap; padding: 10px;">2024</td>
       <td><img src="/assets/publications/skin_fairness.jpg" onerror="this.src='error.jpg';this.onerror='';" width="200"></td>
@@ -55,4 +73,5 @@ Below is a list of my publications.
     </tr>
   </tbody>
 </table>
+</div>
 
