@@ -93,37 +93,33 @@ permalink: /
  <hr style="margin: 15px 0; border: none; border-top: 1px solid #d5d8dc;">
 <!-- <div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 16px; line-height: 1.8;"> -->
 <!-- <hr style="margin: 15px 0; border: none; border-top: 1px solid #d5d8dc;"> -->
-<div style="max-width: 1000px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; line-height: 1.8; display: flex; flex-wrap: wrap; gap: 40px;">
-  <!-- Research Interests Column -->
-  <div style="flex: 1; min-width: 300px;">
-    <h3 style="margin-top: 0;">🔬 Research Interests</h3>
-    <p>
-      Most real-world datasets are far from ideal—they're <strong>imbalanced</strong>, <strong>biased</strong>, or simply too small to learn from effectively — and that’s exactly where I come in.
-    </p>
-    <p>
-      My work focuses on designing algorithms that tackle <strong style="color:#2e86c1;">real-world data challenges</strong> head-on:
-      <span style="color:#7d3c98;">class imbalance</span>,
-      <span style="color:#7d3c98;">long-tailed distributions</span>,
-      <span style="color:#7d3c98;">bias mitigation</span>, and
-      <span style="color:#7d3c98;">fairness</span>.
-    </p>
-    <p>
-      I am especially interested in enabling model generalization through <strong style="color:#117864;">zero-shot</strong> and <strong style="color:#117864;">few-shot forecasting</strong>, ensuring AI remains robust even in data-scarce scenarios.
-    </p>
+<div style="max-width: 1000px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; line-height: 1.75; display: flex; flex-wrap: wrap; gap: 40px;">
+  <!-- Research Interests -->
+  <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: space-between;">
+    <div>
+      <h3 style="margin-top: 0; color: #333;">🔬 Research Interests</h3>
+      <p>
+        Most real-world datasets are far from ideal—they're imbalanced, biased, or simply too small to learn from effectively — and that’s exactly where I come in.
+      </p>
+      <p>
+        My work focuses on designing algorithms that tackle real-world data challenges such as class imbalance, long-tailed distributions, bias mitigation, and fairness in machine learning.
+      </p>
+      <p>
+        I am especially interested in enabling model generalization through zero-shot and few-shot forecasting to ensure robustness under data-scarce conditions.
+      </p>
+    </div>
   </div>
-  <!-- Education Column -->
-  <div style="flex: 1; min-width: 300px;">
-    <h3 style="margin-top: 0;">🎓 Education</h3>
-    <p>
-      I hold a <strong style="color:#2e86c1;">B.Tech</strong> in Computer Engineering and an
-      <strong style="color:#2e86c1;">M.Tech</strong> in Computer Science and Engineering (Software Engineering specialization) —
-      both from <span style="font-weight: 500;">Zakir Husain College of Engineering & Technology (ZHCET)</span>,
-      <span style="color: #566573;">Aligarh Muslim University (AMU)</span>.
-    </p>
-    <p>
-      If you're looking for someone who blends <strong style="color:#34495e;">research expertise</strong> with
-      <strong style="color:#34495e;">real-world application</strong> — let’s connect!
-    </p>
+  <!-- Education -->
+  <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: space-between;">
+    <div>
+      <h3 style="margin-top: 0; color: #333;">🎓 Education</h3>
+      <p>
+        I hold a <strong>B.Tech</strong> in Computer Engineering and an <strong>M.Tech</strong> in Computer Science and Engineering (Software Engineering specialization) — both from Zakir Husain College of Engineering & Technology (ZHCET), Aligarh Muslim University (AMU).
+      </p>
+      <p>
+        If you're looking for someone who blends research expertise with real-world application — let’s connect!
+      </p>
+    </div>
   </div>
 </div>
 <div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 20px; line-height: 1.7;">
