@@ -52,7 +52,7 @@ permalink: /
 
   function resetQuote() {
     document.getElementById('random-quote').innerHTML =
-      `<p>✨</p>`;
+      `<p> </p>`;
   }
 </script>
 </div>
