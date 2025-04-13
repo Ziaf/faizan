@@ -31,7 +31,14 @@ Below is a list of my publications.
       <td><img src="/assets/publications/cco_oversampling.jpg" onerror="this.src='error.jpg';this.onerror='';" width="200"></td>
       <td>
         Ansari, F., Panigrahi, A., & Das, S. (2024). <strong>The Goldilocks Principle: Achieving Just Right Boundary Fidelity for Long-Tailed Classification.</strong> 
-        <em>IEEE Transactions on Emerging Topics in Computational Intelligence</em>.
+        <em>IEEE Transactions on Emerging Topics in Computational Intelligence</em>.         <details style="margin-top: 8px;">
+            <summary style="cursor: pointer; color: #2980b9;">Abstract</summary>
+            <p style="margin-top: 6px;">
+        This study addresses the challenges of learning from long-tailed class imbalances in deep neural networks, particularly for image recognition. Long-tailed class imbalances occur when a dataset's class distribution is highly skewed, with a few head classes containing many instances and numerous tail classes having fewer instances. This imbalance becomes problematic when traditional classification methods, especially deep learning models, prioritize accuracy in the more frequent classes, neglecting the less common ones. 
+Furthermore, these methods struggle to maintain consistent boundary fidelity—decision boundaries that are sharp enough to distinguish classes yet smooth enough to generalize well. Hard boundaries, often caused by overfitting tail classes, amplify intra-class variations, while overly soft boundaries blur distinctions between classes, reducing classification accuracy.
+We propose a dual-branch network with a shared feature extractor to overcome these challenges. This network uses instance and median samplers for head and medium classes and a reverse sampler for tail classes. Additionally, we implement a specialized loss function as a feature regularizer to reduce the model's sensitivity to irrelevant intra-class variations during classification. This loss function dynamically modulates feature representation alignment, promoting cohesive intra-class structures and clear inter-class separations. To achieve this, our framework incorporates two key components: Dual-Branch Sampler-Guided Mixup (DBSGM) and Adaptive Class-Aware Feature Regularizer (ACFR), which work together to balance class representation and refine decision boundaries.
+Integrating DBSGM and ACFR during training helps shape decision boundaries that align with class semantics. To ensure class boundaries are appropriately defined, we propose the temperature-adaptive supervised contrastive loss (TASCL) within the ACFR module, achieving the right balance between smoothness and sharpness. Our single-stage, end-to-end framework demonstrates significant performance improvements, offering a promising solution to the challenges of long-tailed class imbalances in deep learning.  </p>
+          </details> 
       </td>
       <td><a href="https://ieeexplore.ieee.org/" target="_blank"><span><i class="fas fa-scroll"></i>Available Soon</span></a></td>
     </tr>
@@ -41,6 +48,12 @@ Below is a list of my publications.
       <td>
         Ansari, F., Chakraborti, T., & Das, S. (2024). <strong>Algorithmic Fairness in Lesion Classification by Mitigating Class Imbalance and Skin Tone Bias.</strong> 
         <em>International Conference on Medical Image Computing and Computer-Assisted Intervention</em>, 373–382. Springer Nature Switzerland Cham.
+         <details style="margin-top: 8px;">
+            <summary style="cursor: pointer; color: #2980b9;">Abstract</summary>
+            <p style="margin-top: 6px;">
+Deep learning models have shown considerable promise in the classification of skin lesions. However, a notable challenge arises from their inherent bias towards dominant skin tones and the issue of imbalanced class representation. This study introduces a novel data augmentation technique designed to address these limitations. Our approach harnesses contextual information from the prevalent class to synthesize various samples representing minority classes. Using a mixup-based algorithm guided by an adaptive sampler, our method effectively tackles bias and class imbalance issues. The adaptive sampler dynamically adjusts sampling probabilities based on the network’s meta-set performance, enhancing overall accuracy. Our research demonstrates the efficacy of this approach in mitigating skin tone bias and achieving robust lesion classification across a spectrum of diverse skin colors from two distinct benchmark datasets, offering promising implications for improving dermatological diagnostic systems.
+        </p>
+          </details> 
       </td>
       <td><a href="https://link.springer.com/chapter/10.1007/978-3-031-12345-6_29" target="_blank"><span><i class="fas fa-scroll"></i>Paper</span></a></td>
     </tr>
