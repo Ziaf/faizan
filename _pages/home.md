@@ -122,7 +122,7 @@ permalink: /
         <tr style="background-color: #ffffff;">
           <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #34495e;"><strong>April 2023</strong></td>
           <td style="padding: 12px 20px; border: 1px solid #ffffff; color: #2c3e50;">
-            (Oral & Poster) Paper on <strong>Handling Class Imbalance by Estimating Minority Class Statistics</strong> accepted at <a href="https://2023.ijcnn.org/" target="_blank" style="color: #8e44ad;">IEEE IJCNN 2023</a>. <a href="https://ieeexplore.ieee.org/document/10191975" target="_blank" style="color: #2980b9;">[View Paper]</a>
+            (Oral & Poster) Paper on <strong>Handling Class Imbalance by Estimating Minority Class Statistics</strong> accepted at <a href="https://2023.ijcnn.org/" target="_blank" style="color: #8e44ad;">IEEE IJCNN 2023</a>. <a href="https://ieeexplore.ieee.org/document/10191975/" target="_blank" style="color: #2980b9;">[View Paper]</a>
           </td>
         </tr>
         <!-- Add more rows as needed -->
