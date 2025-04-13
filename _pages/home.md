@@ -127,7 +127,6 @@ permalink: /
     <strong>real-world application</strong> — let’s connect!
   </p>
 </div>
-
 ---
 <div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 20px; line-height: 1.7;">
   <h2 style="text-align: left; margin-bottom: 21px;">📰 News</h2>
@@ -173,11 +172,8 @@ permalink: /
     ✨ Stay tuned for more updates from my research journey!
   </p>
 </div>
-
-
 <!--
 <div style="display:flex; gap: 2rem;">
-
 <div style="flex:1;">
   <h3>Recent Positions</h3>
   <ul>
@@ -194,7 +190,6 @@ permalink: /
     Advisor: <a href="https://allenai.org/team/ashishs">Ashish Sabharwal</a></li>
   </ul>
 </div>
-
 <div style="flex:1;">
   <h3>Education</h3>
   <ul>
@@ -211,10 +206,7 @@ permalink: /
     Freie Universität Berlin</li>
   </ul>
 </div>
-
 </div>
-
-
 <h3>Research Interests</h3>
 <ul>
   <li>Formal Language Theory</li>
