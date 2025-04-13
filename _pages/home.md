@@ -97,22 +97,22 @@ permalink: /
   <!-- Research Interests -->
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: space-between;">
     <div>
-      <h3 style="margin-top: 0; color: #333;">🔬 Research Interests</h3>
+      <h3 style="margin-top: 0;">🔬 Research Interests</h3>
       <p>
         Most real-world datasets are far from ideal—they're imbalanced, biased, or simply too small to learn from effectively — and that’s exactly where I come in.
       </p>
       <p>
         My work focuses on designing algorithms that tackle real-world data challenges such as class imbalance, long-tailed distributions, bias mitigation, and fairness in machine learning.
       </p>
-      <p>
+<!--       <p>
         I am especially interested in enabling model generalization through zero-shot and few-shot forecasting to ensure robustness under data-scarce conditions.
-      </p>
+      </p> -->
     </div>
   </div>
   <!-- Education -->
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: space-between;">
     <div>
-      <h3 style="margin-top: 0; color: #333;">🎓 Education</h3>
+      <h3 style="margin-top: 0;">🎓 Education</h3>
       <p>
         I hold a <strong>B.Tech</strong> in Computer Engineering and an <strong>M.Tech</strong> in Computer Science and Engineering (Software Engineering specialization) — both from Zakir Husain College of Engineering & Technology (ZHCET), Aligarh Muslim University (AMU).
       </p>
@@ -121,7 +121,8 @@ permalink: /
       </p>
     </div>
   </div>
-</div>
+</div> 
+ <hr style="margin: 15px 0; border: none; border-top: 1px solid #d5d8dc;">
 <div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 20px; line-height: 1.7;">
   <h2 style="text-align: left; margin-bottom: 21px;">📰 News</h2>
   <!-- Scrollable wrapper -->
