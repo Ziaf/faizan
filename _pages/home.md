@@ -26,7 +26,7 @@ permalink: /
 </div> -->
 
 <div style="display:flex;align-items:center;justify-content:space-between;">
-  <div style="flex:2">
+  <div style="flex:2; font-family: 'Segoe UI', sans-serif; font-size: 16px; line-height: 1.8;">
  <!--   <strong style="font-size: 1rem; color: #666; margin-top: -0.5rem;">Bio: </strong>
    <p style="font-size: 16px; line-height: 1.8; color: #2c3e50; max-width: 800px;"> -->
   I'm a 
