@@ -1,10 +1,8 @@
 ---
 layout: single
-title: "Blog"
+title: "📝 Blog"
 permalink: /blog/
 ---
-
-# 📝 Blog
 
 > Latest from [@faizanansari541 on Medium](https://medium.com/@faizanansari541)
 
