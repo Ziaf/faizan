@@ -25,12 +25,12 @@ permalink: /
   const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
   document.getElementById('random-quote').innerHTML = `<p>${randomQuote}</p>`;
 </script> -->
-<div style="flex: 1; text-align: right; font-size: 0.75rem; color: #666; margin-top: -0.5rem;">
+<div style="flex: 1; text-align: right; font-size: 1rem; color: #666; margin-top: -0.5rem;">
   <div
     id="quote-heading"
     onmouseover="showRandomQuote()"
     onmouseout="resetQuote()"
-    style="font-weight: bold; font-size: 0.95rem; color: #444; margin-bottom: 4px; cursor: pointer;"
+    style="font-weight: bold; font-size: 1rem; color: #444; margin-bottom: 4px; cursor: pointer;"
   >
     Ilham🕊️
   </div>
