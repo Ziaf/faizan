@@ -32,10 +32,10 @@ permalink: /
     onmouseout="resetQuote()"
     style="font-weight: bold; font-size: 0.85rem; color: #444; margin-bottom: 4px; cursor: pointer;"
   >
-    Ilham
+    Ilham✨🕊️
   </div>
   <div id="random-quote">
-    <p>Hover over <strong>Ilham</strong> to receive a reminder ✨</p>
+<!--     <p>Hover over <strong>Ilham</strong> to receive a reminder ✨</p> -->
   </div>
 </div>
 
