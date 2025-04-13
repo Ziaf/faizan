@@ -69,7 +69,7 @@ Deep learning models have shown considerable promise in the classification of sk
         </p>
           </details> 
       </td>
-      <td><a href="https://link.springer.com/chapter/10.1007/978-3-031-12345-6_29" target="_blank"><span><i class="fas fa-scroll"></i>Paper</span></a></td>
+      <td><a href="https://link.springer.com/chapter/10.1007/978-3-031-72378-0_35" target="_blank"><span><i class="fas fa-scroll"></i>Paper</span></a></td>
     </tr>
     <tr>
       <td style="white-space: nowrap; padding: 10px;">2024</td>
@@ -84,7 +84,7 @@ Deep learning models have shown considerable promise in the classification of sk
            </p>
           </details>
       </td>
-      <td><a href="https://doi.org/10.1109/TETCI.2024.1234567" target="_blank"><span><i class="fas fa-scroll"></i>Paper</span></a></td>
+      <td><a href="https://ieeexplore.ieee.org/document/10555431" target="_blank"><span><i class="fas fa-scroll"></i>Paper</span></a></td>
     </tr>
     <tr>
       <td style="white-space: nowrap; padding: 10px;">2024</td>
@@ -99,7 +99,7 @@ Deep learning models have shown considerable promise in the classification of sk
            </p>
           </details>
       </td>
-      <td><a href="https://doi.org/10.1109/ISBI.2024.1234567" target="_blank"><span><i class="fas fa-scroll"></i>Paper</span></a></td>
+      <td><a href="https://ieeexplore.ieee.org/document/10635212" target="_blank"><span><i class="fas fa-scroll"></i>Paper</span></a></td>
     </tr>
     <tr>
       <td style="white-space: nowrap; padding: 10px;">2023</td>
@@ -114,7 +114,7 @@ Deep learning models have shown considerable promise in the classification of sk
             </p>
           </details>
       </td>
-      <td><a href="https://ieeexplore.ieee.org/document/10123456" target="_blank"><span><i class="fas fa-scroll"></i>Paper</span></a></td>
+      <td><a href="https://ieeexplore.ieee.org/document/10191975" target="_blank"><span><i class="fas fa-scroll"></i>Paper</span></a></td>
     </tr>
   </tbody>
 </table>
