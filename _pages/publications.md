@@ -29,7 +29,7 @@ Below is a list of my publications.
         Mondal, P., Ansari, F., Das, S., & Shamsolmoali, P. (2025). <strong>Force of Attraction-Based Distribution Calibration for Enhancing Minority Class Representation.</strong> 
         <em>2025 International Joint Conference on Neural Networks (IJCNN)</em>. IEEE.
           <details style="margin-top: 8px;">
-            <summary style="cursor: pointer; color: #2980b9;">Abstract</summary>
+            <summary style="color:#2980b9; cursor:pointer;"><em>Show Abstract</em></summary>
             <p style="margin-top: 6px;">
         Imbalanced image datasets pose significant challenges for developing robust classifiers, particularly when certain classes are heavily underrepresented. To tackle this issue, we propose Density-Driven Attraction (DDA) Oversampling, a novel technique designed to improve class representation in the latent space. Our approach begins by projecting images into disentangled latent representations, ensuring clear separation between classes and precise identification of subclasses. At the core of this method is the Density-Driven Attraction Force (DDAF), a mechanism inspired by gravitational forces. DDAF quantifies the attraction between components of well-represented and underrepresented classes, adjusting the attraction based on the density of each component. This process recalibrates the distributions of underrepresented classes by leveraging their strongest attractions, effectively simulating the natural principles of mass attraction. Extensive classification experiments on six multiclass imbalanced datasets demonstrate that DDA Oversampling outperforms existing state-of-the-art methods, resulting in more accurate and balanced class distributions.     
   </p>
