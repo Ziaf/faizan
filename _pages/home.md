@@ -30,7 +30,7 @@ permalink: /
     id="quote-heading"
     onmouseover="showRandomQuote()"
     onmouseout="resetQuote()"
-    style="font-weight: bold; font-size: 0.85rem; color: #444; margin-bottom: 4px; cursor: pointer;"
+    style="font-weight: bold; font-size: 0.95rem; color: #444; margin-bottom: 4px; cursor: pointer;"
   >
     Ilham🕊️
   </div>
@@ -38,7 +38,6 @@ permalink: /
 <!--     <p>Hover over <strong>Ilham</strong> to receive a reminder ✨</p> -->
   </div>
 </div>
-
 <script>
   const quotes = [
     `فَإِنَّ مَعَ العُسرِ يُسرًا <br><em>“So, surely with hardship comes ease.” (Qur’an 94:5)</em>`,
