@@ -61,6 +61,43 @@ permalink: /
 </div>
  <hr style="margin: 15px 0; border: none; border-top: 1px solid #d5d8dc;">
 <!-- <div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 16px; line-height: 1.8;"> -->
+<!-- <hr style="margin: 15px 0; border: none; border-top: 1px solid #d5d8dc;"> -->
+<div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; line-height: 1.8;">
+  <h3>🔬 Research Interests</h3>
+  <p>
+<!--     <span >Today’s world runs on data</span>, but not all data is created equal.  -->
+    Most real-world datasets are far from ideal—they're imbalanced, biased, or too small to learn from effectively
+<!--     Models must perform reliably even when data is 
+    <strong >scarce</strong>, 
+    <strong >skewed</strong>, or 
+    <strong >biased</strong>  -->
+    — and that’s exactly where I come in.
+    <br>
+    My work focuses on designing algorithms that tackle 
+    <strong>real-world data challenges</strong> head-on:  
+    <span >class imbalance</span>, 
+    <span >long-tailed distributions</span>, 
+    <span >bias mitigation</span>, 
+    and <span >fairness</span>. 
+    I am especially interested in enabling generalization through 
+    <strong >zero-shot</strong> and 
+    <strong >few-shot forecasting</strong>, ensuring AI models remain robust under limited-data scenarios.
+  </p>
+  <hr style="margin: 15px 0; border: none; border-top: 1px solid #d5d8dc;">
+  <h3>🎓 Education</h3>
+  <p>
+    I hold a <strong>B.Tech</strong> in Computer Engineering and an 
+    <strong>M.Tech</strong> in Computer Science and Engineering with a specialization in Software Engineering — 
+    both from <span >Zakir Husain College of Engineering & Technology (ZHCET)</span>, 
+    <span>Aligarh Muslim University (AMU)</span>.
+  </p>
+  <p>
+    If you're looking for someone who blends <strong>research expertise</strong> with 
+    <strong>real-world application</strong> — let’s connect!
+  </p>
+</div>
+
+---
 <div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 20px; line-height: 1.7;">
   <h2 style="text-align: left; margin-bottom: 21px;">📰 News</h2>
   <!-- Scrollable wrapper -->
@@ -105,44 +142,6 @@ permalink: /
     ✨ Stay tuned for more updates from my research journey!
   </p>
 </div>
-<hr style="margin: 15px 0; border: none; border-top: 1px solid #d5d8dc;">
-<div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; line-height: 1.8;">
-  <h3>🔬 Research Interests</h3>
-  <p>
-<!--     <span >Today’s world runs on data</span>, but not all data is created equal.  -->
-    Most real-world datasets are far from ideal—they're imbalanced, biased, or too small to learn from effectively
-<!--     Models must perform reliably even when data is 
-    <strong >scarce</strong>, 
-    <strong >skewed</strong>, or 
-    <strong >biased</strong>  -->
-    — and that’s exactly where I come in.
-    <br>
-    My work focuses on designing algorithms that tackle 
-    <strong>real-world data challenges</strong> head-on:  
-    <span >class imbalance</span>, 
-    <span >long-tailed distributions</span>, 
-    <span >bias mitigation</span>, 
-    and <span >fairness</span>. 
-    I am especially interested in enabling generalization through 
-    <strong >zero-shot</strong> and 
-    <strong >few-shot forecasting</strong>, ensuring AI models remain robust under limited-data scenarios.
-  </p>
-  <hr style="margin: 15px 0; border: none; border-top: 1px solid #d5d8dc;">
-  <h3>🎓 Education</h3>
-  <p>
-    I hold a <strong>B.Tech</strong> in Computer Engineering and an 
-    <strong>M.Tech</strong> in Computer Science and Engineering with a specialization in Software Engineering — 
-    both from <span >Zakir Husain College of Engineering & Technology (ZHCET)</span>, 
-    <span>Aligarh Muslim University (AMU)</span>.
-  </p>
-  <p>
-    If you're looking for someone who blends <strong>research expertise</strong> with 
-    <strong>real-world application</strong> — let’s connect!
-  </p>
-</div>
-
----
-
 
 
 <!--
