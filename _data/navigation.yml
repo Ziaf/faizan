@@ -7,8 +7,8 @@ main:
     url: /blog/
   - title: "Photography"
     url: /photography/
-  - title: "Personal"
-    url: /personal/
+  # - title: "Personal"
+  #   url: /personal/
   - title: "CV"
     url: "https://drive.google.com/file/d/17wYiveh-a3hAipuxYDci_8lSCnS9-BHY/view?usp=sharing"
   # - title: "ESSLLI 2024"
