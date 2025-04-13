@@ -56,7 +56,7 @@ permalink: /
   <strong>fairness</strong>.
   </div>
 <div style="flex:1;text-align:right;">
-  <img src="/assets/images/avtar.png" alt="faizan" style="border-radius:0px;width:180px;height:180px;object-fit:cover;">
+  <img src="assets/images/avtar.png" alt="faizan" style="border-radius:0px;width:180px;height:180px;object-fit:cover;">
 </div> 
 </div>
  <hr style="margin: 15px 0; border: none; border-top: 1px solid #d5d8dc;">
