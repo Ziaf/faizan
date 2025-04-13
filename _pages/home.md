@@ -18,7 +18,7 @@ permalink: /
 <div id="random-quote" style="flex: 1; text-align: right; font-size: 0.85rem; color: #666; margin-top: -0.5rem;"></div>
 <script>
   const quotes = [
-    `فَإِنَّ مَعَ العُسرِ يُسرًا <br><em>So, surely with hardship comes ease</em>`,
+    `فَإِنَّ مَعَ العُسرِ يُسرًا <br><em>“So, surely with hardship comes ease.” (Al-Quran 94:5)</em>`,
     `إِنَّ ٱللَّهَ مَعَ ٱلصَّبِرِينَ <br><em>“I will be with those who have patience.” (Al-Quran 2:153)</em>`,
   ];
   const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
