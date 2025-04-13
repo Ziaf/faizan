@@ -44,8 +44,6 @@ permalink: /
     `فَإِنَّ مَعَ العُسرِ يُسرًا <br><em>“So, surely with hardship comes ease.” (Qur’an 94:5)</em>`,
     `إِنَّ ٱللَّهَ مَعَ ٱلصَّبِرِينَ <br><em>“I will be with those who have patience.” (Qur’an 2:153)</em>`,
     `لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا <br><em>“Allah does not burden a soul beyond that it can bear.” (Qur’an 2:286)</em>`,
-    `وَعَسَىٰ أَن تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَّكُمْ <br><em>You may dislike something while it is good for you. (Qur’an 2:216)</em>`,
-    `لَا تَقْنَطُوا مِن رَّحْمَةِ ٱللَّهِ <br><em>Do not despair of the mercy of Allah. (Qur’an 39:53)</em>`
   ];
 
   function showRandomQuote() {
