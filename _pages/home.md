@@ -15,12 +15,13 @@ permalink: /
 <!-- <div style="flex:1;text-align:right;">
 <p style="font-size: 0.85rem; color: #666; margin-top: -0.5rem;"> فَإِنَّ مَعَ العُسرِ يُسرًا <br> So, surely with hardship comes ease</p>
 </div> -->
-<div id="random-quote" style="flex: 1; text-align: right; font-size: 0.8rem; color: #666; margin-top: -0.5rem;"></div>
+<div id="random-quote" style="flex: 1; text-align: right; font-size: 0.75rem; color: #666; margin-top: -0.5rem;"></div>
 <script>
   const quotes = [
-    `فَإِنَّ مَعَ العُسرِ يُسرًا <br><em>“So, surely with hardship comes ease.”</em>`,
-    `إِنَّ ٱللَّهَ مَعَ ٱلصَّبِرِينَ <br><em>“I will be with those who have patience.”</em>`,
-  ];
+    `فَإِنَّ مَعَ العُسرِ يُسرًا <br><em>“So, surely with hardship comes ease.”(Qur’an 94:5)</em>`,
+    `إِنَّ ٱللَّهَ مَعَ ٱلصَّبِرِينَ <br><em>“I will be with those who have patience.”(Qur’an 2:153)</em>`,
+  `لَا يُكَلِّفُ اللَّهُ نَفْسًا إِلَّا وُسْعَهَا <br><em>“Allah does not burden a soul beyond that it can bear.” (Qur’an 2:286)</em>`,
+ ];
   const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
   document.getElementById('random-quote').innerHTML = `<p>${randomQuote}</p>`;
 </script>
