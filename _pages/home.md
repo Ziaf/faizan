@@ -26,13 +26,19 @@ permalink: /
   document.getElementById('random-quote').innerHTML = `<p>${randomQuote}</p>`;
 </script> -->
 <div style="flex: 1; text-align: right; font-size: 0.75rem; color: #666; margin-top: -0.5rem;">
-  <div id="quote-heading" onmouseover="showRandomQuote()" style="font-weight: bold; font-size: 0.85rem; color: #444; margin-bottom: 4px; cursor: pointer;">
+  <div
+    id="quote-heading"
+    onmouseover="showRandomQuote()"
+    onmouseout="resetQuote()"
+    style="font-weight: bold; font-size: 0.85rem; color: #444; margin-bottom: 4px; cursor: pointer;"
+  >
     Ilham
   </div>
   <div id="random-quote">
     <p>Hover over <strong>Ilham</strong> to receive a reminder ✨</p>
   </div>
 </div>
+
 <script>
   const quotes = [
     `فَإِنَّ مَعَ العُسرِ يُسرًا <br><em>“So, surely with hardship comes ease.” (Qur’an 94:5)</em>`,
@@ -46,7 +52,12 @@ permalink: /
     const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
     document.getElementById('random-quote').innerHTML = `<p>${randomQuote}</p>`;
   }
-</script>  
+
+  function resetQuote() {
+    document.getElementById('random-quote').innerHTML =
+      `<p>Hover over <strong>Ilham</strong> to receive a reminder ✨</p>`;
+  }
+</script>
 </div>
 <!-- (Al-Quran 94:5) (Al-Quran 2:153) -->
 <!-- <div style="display:flex;align-items:center;justify-content:space-between;">
