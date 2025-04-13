@@ -6,7 +6,8 @@ permalink: /publications/
 
 
 Below is a list of my publications.
-<div style="max-width: 100%; overflow-x: auto; margin: 15px 0;">
+<!-- <div style="max-width: 100%; overflow-x: auto; margin: 15px 0;"> -->
+  <div style="max-height: 500px; overflow-y: auto; border: 1px solid #ecf0f1; border-radius: 8px;">
   <table style="width: 100%; table-layout: fixed; border-collapse: collapse; font-size: 15px; line-height: 1.6;">
   <thead>
 <!--     <tr style="background-color: #f8f9fa;"> -->
