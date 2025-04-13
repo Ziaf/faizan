@@ -13,7 +13,7 @@ permalink: /
 </p>
 </div>
 <div style="flex:1;text-align:right;">
-<p style="font-size: 0.5rem; color: #666; margin-top: -0.5rem;"> فَإِنَّ مَعَ العُسرِ يُسرًا <br> So, surely with hardship comes ease</p>
+<p style="font-size: 0.85rem; color: #666; margin-top: -0.5rem;"> فَإِنَّ مَعَ العُسرِ يُسرًا <br> So, surely with hardship comes ease</p>
 </div></div>
 
 <!-- <div style="display:flex;align-items:center;justify-content:space-between;">
