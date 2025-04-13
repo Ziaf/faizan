@@ -5,8 +5,8 @@ permalink: /publications/
 ---
 
 Below is a list of my publications.
-<div style="max-width: 100%; overflow-x: auto; margin: 30px 0;">
-  <table style="width: 100%; min-width: 900px; table-layout: auto; border-collapse: collapse; font-family: 'Segoe UI', sans-serif; font-size: 15px; line-height: 1.6;">
+<div style="max-width: 100%; overflow-x: auto; margin: 15px 0;">
+  <table style="width: 100%; min-width: 1024px; table-layout: auto; border-collapse: collapse; font-family: 'Segoe UI', sans-serif; font-size: 15px; line-height: 1.6;">
   <thead>
 <!--     <tr style="background-color: #f8f9fa;"> -->
     <tr>
