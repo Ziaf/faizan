@@ -68,8 +68,15 @@ Below is a list of my publications.
       <td>
         Ansari, F., Das, S., & Shamsolmoali, P. (2023). <strong>Handling class imbalance by estimating minority class statistics.</strong> 
         <em>2023 International Joint Conference on Neural Networks (IJCNN)</em>, 1–8. IEEE.
+         <details style="margin-top: 8px;">
+            <summary style="cursor: pointer; color: #2980b9;">Abstract</summary>
+            <p style="margin-top: 6px;">
+             The problem of class imbalance arises in machine learning due to the unequal class-specific distribution of data, where most samples belong to one class, and only a few represent the others. To tackle this issue, one paradigm is to use oversampling techniques that synthesize artificial samples of the minority class using the convex combination of the minority class samples taken in some specialized way for different methods. Existing methods do not take into account any information regarding the actual distribution of the minority class, which leads to inconsistencies between the generated distribution and the actual distribution that the minority class might have. In this paper, we propose a parametrization-based method that tries to estimate the statistics of the minority class samples using the statistics of the nearby classes. Using the different hyperparameters, we can control the distribution such that it may approximate the original distribution. Experiments using synthetic and real-world benchmark datasets demonstrate the usefulness of our techniques across multiple metrics.
+            </p>
+          </details>
       </td>
       <td><a href="https://ieeexplore.ieee.org/document/10123456" target="_blank"><span><i class="fas fa-scroll"></i>Paper</span></a></td>
+      
     </tr>
   </tbody>
 </table>
