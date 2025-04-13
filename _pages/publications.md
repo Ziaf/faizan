@@ -50,6 +50,12 @@ Below is a list of my publications.
       <td>
         Mondal, P., Ansari, F., & Das, S. (2024). <strong>CCO: A cluster core-based oversampling technique for improved class-imbalanced learning.</strong> 
         <em>IEEE Transactions on Emerging Topics in Computational Intelligence</em>.
+                         <details style="margin-top: 8px;">
+            <summary style="cursor: pointer; color: #2980b9;">Abstract</summary>
+            <p style="margin-top: 6px;">
+        Supervised classification problems from the real world typically face a challenge characterized by the scarcity of samples in one or more target classes compared to the rest of the majority classes. In response to such class imbalance, we propose an oversampling technique based on clustering, aiming to populate the minority class with synthetic samples. This approach capitalizes on the notion of “Cluster Cores,” representing locally dense regions within clusters. These Cluster Cores act as central, densely crowded areas that capture intricate topological properties of the corresponding clusters, especially in complex datasets with a non-convex spatial orientation in the feature space. By concentrating on these high-density regions, our clustering-based oversampling technique generates synthetic samples within the convex hull region of minority class instances in the formed clusters. This strategy ensures the creation of points that align with the data space and considers each minority instance within a specific cluster, thereby averting the problems encountered due to the generation of artificial samples by mere linear combination of the minority class data points, as is encountered in SMOTE (Synthetic Minority Oversampling Technique)-based algorithms. To assess the efficacy of our proposal, we conducted experimental comparisons against several cutting-edge algorithms, considering an array of evaluation metrics on well-known datasets used in the literature for both binary and multi-class classification. Additionally, we undertook a detailed ablation study, scrutinized existing algorithms in our context, delineated their strengths and limitations, and contemplated potential research directions in this domain.
+           </p>
+          </details>
       </td>
       <td><a href="https://doi.org/10.1109/TETCI.2024.1234567" target="_blank"><span><i class="fas fa-scroll"></i>Paper</span></a></td>
     </tr>
@@ -59,6 +65,12 @@ Below is a list of my publications.
       <td>
         Ansari, F., Bhattacharya, A., Saha, B., & Das, S. (2024). <strong>Mo2E: Mixture of Two Experts for Class-Imbalanced Learning from Medical Images.</strong> 
         <em>2024 IEEE International Symposium on Biomedical Imaging (ISBI)</em>, 1–5. IEEE.
+                         <details style="margin-top: 8px;">
+            <summary style="cursor: pointer; color: #2980b9;">Abstract</summary>
+            <p style="margin-top: 6px;">
+        Class imbalance in the medical image dataset is almost inherent due to the limited availability of clinical data for certain diseases and patient populations. Under-represented classes in the training set affect the classification task because the classifier tends to learn more from the majority classes, which are more common in the dataset and ignore data from the minority classes. To mitigate this issue, we propose a method to learn using two different convolutional neural network-based experts; such experts try to learn boundaries within the head classes, between the head and tail classes, and within the tail classes. During expert training, we integrate the MixUp regularization method to augment imbalanced data, employing distinct data sampling strategies for more effective mixing compared to random selection in traditional MixUp. During the inference phase, we combine the logits of the different experts based on their expertise in the corresponding classes. This way, we can improve the accuracy of the head and tail classes. Experiments using highly imbalanced and long-tailed datasets demonstrate the effectiveness of the suggested framework.
+           </p>
+          </details>
       </td>
       <td><a href="https://doi.org/10.1109/ISBI.2024.1234567" target="_blank"><span><i class="fas fa-scroll"></i>Paper</span></a></td>
     </tr>
@@ -76,7 +88,6 @@ Below is a list of my publications.
           </details>
       </td>
       <td><a href="https://ieeexplore.ieee.org/document/10123456" target="_blank"><span><i class="fas fa-scroll"></i>Paper</span></a></td>
-      
     </tr>
   </tbody>
 </table>
