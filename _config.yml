@@ -88,7 +88,7 @@ description              : "Senior Research Fellow (SRF)"
 # yandex_site_verification :
 # baidu_site_verification  :
 # Layout & Typography
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "default"
 
 # Site Author
 author:
