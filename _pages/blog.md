@@ -17,7 +17,7 @@ permalink: /blog/
     .then(res => res.json())
     .then(data => {
       const container = document.getElementById("medium-blogs");
-      data.items.slice(0, 5).forEach(item => {
+      data.items.slice(0, 6).forEach(item => {
         const title = item.title;
         const link = item.link;
         const pubDate = new Date(item.pubDate).toDateString();
