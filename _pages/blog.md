@@ -3,6 +3,7 @@ layout: single
 title: "Blog"
 permalink: /blog/
 ---
+# Blog
 
 > Latest from [@faizanansari541 on Medium](https://medium.com/@faizanansari541)
 
@@ -15,12 +16,17 @@ permalink: /blog/
     .then(res => res.json())
     .then(data => {
       const container = document.getElementById("medium-blogs");
-      data.items.slice(0, 6).forEach(item => {
+      data.items.slice(0, 5).forEach(item => {
         const title = item.title;
         const link = item.link;
         const pubDate = new Date(item.pubDate).toDateString();
+
+        // Extract first image from content using RegEx
+        const imgMatch = item.content.match(/<img[^>]+src="([^">]+)"/);
+        const image = imgMatch ? imgMatch[1] : "https://cdn-icons-png.flaticon.com/512/5968/5968906.png";
+
+        // Clean text summary
         const snippet = item.description.replace(/<[^>]*>?/gm, "").slice(0, 180) + "...";
-        const image = item.thumbnail || "https://cdn-icons-png.flaticon.com/512/5968/5968906.png";
 
         const card = `
           <div style="display: flex; flex-direction: row; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 4px rgba(0,0,0,0.05);">
@@ -42,6 +48,7 @@ permalink: /blog/
     })
     .catch(err => {
       document.getElementById("medium-blogs").innerHTML =
-        "<p style='color: red;'>⚠️ Failed to load Medium blog posts. Please try again later.</p>";
+        "<p style='color: red;'>⚠️ Unable to load Medium blog posts. Please try again later.</p>";
     });
 </script>
+
