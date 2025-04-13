@@ -18,14 +18,14 @@ permalink: /
 <div id="random-quote" style="flex: 1; text-align: right; font-size: 0.8rem; color: #666; margin-top: -0.5rem;"></div>
 <script>
   const quotes = [
-    `فَإِنَّ مَعَ العُسرِ يُسرًا <br><em>“So, surely with hardship comes ease.” (Al-Quran 94:5)</em>`,
-    `إِنَّ ٱللَّهَ مَعَ ٱلصَّبِرِينَ <br><em>“I will be with those who have patience.” (Al-Quran 2:153)</em>`,
+    `فَإِنَّ مَعَ العُسرِ يُسرًا <br><em>“So, surely with hardship comes ease.”</em>`,
+    `إِنَّ ٱللَّهَ مَعَ ٱلصَّبِرِينَ <br><em>“I will be with those who have patience.”</em>`,
   ];
   const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
   document.getElementById('random-quote').innerHTML = `<p>${randomQuote}</p>`;
 </script>
 </div>
-
+<!-- (Al-Quran 94:5) (Al-Quran 2:153) -->
 <!-- <div style="display:flex;align-items:center;justify-content:space-between;">
   <p>
   <a href="mailto:faizanansari541@gmail.com"><img src="assets/envelope-solid.svg" alt="Icon" class="icon">Email</a> |
