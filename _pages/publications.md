@@ -7,18 +7,18 @@ permalink: /publications/
 
 Below is a list of my publications.
 <div style="max-width: 100%; overflow-x: auto; margin: 15px 0;">
-  <table style="width: 100%; min-width: 900px; table-layout: auto; border-collapse: collapse; font-family: 'Segoe UI', sans-serif; font-size: 18px; line-height: 1.6;">
+  <table style="width: 100%; table-layout: fixed; border-collapse: collapse; font-family: 'Segoe UI', sans-serif; font-size: 15px; line-height: 1.6;">
   <thead>
 <!--     <tr style="background-color: #f8f9fa;"> -->
     <tr>
-      <th style="text-align: center; white-space: nowrap; padding: 15px;">Date</th>
+<!--       <th style="text-align: center; white-space: nowrap; padding: 15px;">Date</th>
       <th style="text-align: center; padding: 15px;">Visual Insight</th>
       <th style="text-align: center; padding: 15px;">Citation</th>
-      <th style="text-align: center; white-space: nowrap; padding: 15px;">Link</th>
-<!--         <th style="width: 8%; text-align: left; padding: 10px;">Date</th>
+      <th style="text-align: center; white-space: nowrap; padding: 15px;">Link</th> -->
+        <th style="width: 8%; text-align: left; padding: 10px;">Date</th>
         <th style="width: 20%; text-align: left; padding: 10px;">Visual Insight</th>
         <th style="width: 60%; text-align: left; padding: 10px;">Paper</th>
-        <th style="width: 12%; text-align: left; padding: 10px;">Link</th> -->
+        <th style="width: 12%; text-align: left; padding: 10px;">Link</th>
     </tr>
   </thead>
   <tbody>
