@@ -15,7 +15,7 @@ permalink: /
 <!-- <div style="flex:1;text-align:right;">
 <p style="font-size: 0.85rem; color: #666; margin-top: -0.5rem;"> فَإِنَّ مَعَ العُسرِ يُسرًا <br> So, surely with hardship comes ease</p>
 </div> -->
-<div id="random-quote" style="flex: 1; text-align: right; font-size: 0.85rem; color: #666; margin-top: -0.5rem;"></div>
+<div id="random-quote" style="flex: 1; text-align: right; font-size: 0.8rem; color: #666; margin-top: -0.5rem;"></div>
 <script>
   const quotes = [
     `فَإِنَّ مَعَ العُسرِ يُسرًا <br><em>“So, surely with hardship comes ease.” (Al-Quran 94:5)</em>`,
