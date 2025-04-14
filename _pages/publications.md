@@ -5,7 +5,6 @@ permalink: /publications/
 ---
 
 
-Below is a list of my publications.
 <style>
   :root {
     --bg-color: #ffffff;
@@ -25,6 +24,17 @@ Below is a list of my publications.
     }
   }
 
+  .pub-table-wrapper {
+    max-height: 900px;
+    overflow-y: auto;
+    overflow-x: auto;
+    padding: 24px;
+    background-color: var(--bg-color);
+    border: 1px solid var(--border-color);
+    border-radius: 12px;
+    margin-top: 20px;
+  }
+
   .pub-table {
     width: 100%;
     border-collapse: collapse;
@@ -38,10 +48,13 @@ Below is a list of my publications.
 
   .pub-table thead {
     background-color: var(--hover-bg);
+    position: sticky;
+    top: 0;
+    z-index: 1;
   }
 
   .pub-table th, .pub-table td {
-    padding: 12px;
+    padding: 14px;
     text-align: left;
     border-bottom: 1px solid var(--border-color);
     vertical-align: top;
@@ -49,7 +62,7 @@ Below is a list of my publications.
 
   .pub-table tr:hover {
     background-color: var(--hover-bg);
-    transition: background-color 0.3s;
+    transition: background-color 0.3s ease;
   }
 
   .pub-image {
@@ -65,7 +78,7 @@ Below is a list of my publications.
     cursor: pointer;
     color: var(--highlight);
     font-weight: 500;
-    margin-top: 6px;
+    margin-top: 8px;
   }
 
   .pub-link a {
@@ -85,12 +98,13 @@ Below is a list of my publications.
     }
 
     .pub-table td, .pub-table th {
-      padding: 10px 8px;
+      padding: 10px;
     }
   }
 </style>
 
-<div style="overflow-x: auto;">
+<p>Below is a list of my publications.</p>
+<div class="pub-table-wrapper">
   <table class="pub-table">
     <thead>
       <tr>
@@ -194,7 +208,8 @@ Deep learning models have shown considerable promise in the classification of sk
       </td>
       <td><a href="https://ieeexplore.ieee.org/document/10191975" target="_blank"><span><i class="fas fa-scroll"></i>Paper</span></a></td>
     </tr>
-</tbody>
+  </tbody>
   </table>
 </div>
+
 
