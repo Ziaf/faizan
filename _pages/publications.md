@@ -49,9 +49,10 @@ permalink: /publications/
   }
 
   .pub-table-wrapper {
-    max-height: 900px;
+    max-height: 800px;
     overflow-y: auto;
     overflow-x: auto;
+    border-radius: 8px;
   }
 
   .pub-table {
@@ -65,11 +66,12 @@ permalink: /publications/
     table-layout: fixed;
   }
 
-  .pub-table thead {
+  .pub-table thead th {
     background-color: var(--hover-bg);
     position: sticky;
     top: 0;
-    z-index: 1;
+    z-index: 2;
+    border-bottom: 2px solid var(--border-color);
   }
 
   .pub-table th, .pub-table td {
@@ -234,7 +236,6 @@ Deep learning models have shown considerable promise in the classification of sk
     </table>
   </div>
 </div>
-
 <script>
   document.getElementById('pubSearch').addEventListener('input', function () {
     const filter = this.value.toLowerCase();
@@ -244,5 +245,4 @@ Deep learning models have shown considerable promise in the classification of sk
     });
   });
 </script>
-
 
