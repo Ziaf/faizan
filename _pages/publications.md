@@ -53,11 +53,13 @@ permalink: /publications/
     overflow-y: auto;
     overflow-x: auto;
     border-radius: 8px;
+    position: relative;
   }
 
   .pub-table {
     width: 100%;
-    border-collapse: collapse;
+    border-collapse: separate;
+    border-spacing: 0;
     font-family: 'Segoe UI', sans-serif;
     font-size: 15px;
     line-height: 1.6;
@@ -70,7 +72,7 @@ permalink: /publications/
     background-color: var(--hover-bg);
     position: sticky;
     top: 0;
-    z-index: 2;
+    z-index: 10;
     border-bottom: 2px solid var(--border-color);
   }
 
@@ -130,7 +132,7 @@ permalink: /publications/
   </div>
   <div class="pub-table-wrapper">
     <table class="pub-table" id="pubTable">
-      <thead>
+      <thead style="position: sticky; top: 0; background-color: var(--hover-bg);">
         <tr>
           <th style="width: 8%;">Date</th>
           <th style="width: 20%;">Visual Insight</th>
@@ -236,6 +238,7 @@ Deep learning models have shown considerable promise in the classification of sk
     </table>
   </div>
 </div>
+
 <script>
   document.getElementById('pubSearch').addEventListener('input', function () {
     const filter = this.value.toLowerCase();
@@ -245,4 +248,3 @@ Deep learning models have shown considerable promise in the classification of sk
     });
   });
 </script>
-
