@@ -132,8 +132,8 @@ permalink: /publications/
       <thead style="position: sticky; top: 0; z-index: 2; background-color: var(--hover-bg);">
         <tr>
           <th style="width: 10%;">Year</th>
-          <th style="width: 15%;">Visual Insight</th>
-          <th style="width: 65%;">Paper</th>
+          <th style="width: 20%;">Visual Insight</th>
+          <th style="width: 60%;">Paper</th>
           <th style="width: 10%;">Link</th>
         </tr>
       </thead>
