@@ -130,7 +130,6 @@ permalink: /publications/
   <div class="pub-header">
     <input type="text" id="pubSearch" class="pub-search" placeholder="Search by keyword...">
   </div>
-  <div class="pub-table-wrapper">
     <table class="pub-table" id="pubTable">
       <thead>
         <tr style="position: sticky; top: 0; background-color: var(--hover-bg); z-index: 2;">
@@ -140,6 +139,7 @@ permalink: /publications/
           <th style="width: 12%;">Link</th>
         </tr>
       </thead>
+        <div class="pub-table-wrapper">
       <tbody>
     <tr>
       <td style="white-space: nowrap; padding: 10px;">2025</td>
@@ -235,8 +235,8 @@ Deep learning models have shown considerable promise in the classification of sk
       <td><a href="https://ieeexplore.ieee.org/document/10191975" target="_blank"><span><i class="fas fa-scroll"></i>Paper</span></a></td>
     </tr>
  </tbody>
+          </div>
     </table>
-  </div>
 </div>
 
 <script>
