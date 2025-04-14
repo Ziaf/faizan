@@ -7,32 +7,49 @@ permalink: /publications/
 
 Below is a list of my publications.
 <style>
+  :root {
+    --bg-color: #ffffff;
+    --text-color: #1c1c1c;
+    --border-color: #e0e0e0;
+    --highlight: #2980b9;
+    --hover-bg: #f5f5f5;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg-color: #121212;
+      --text-color: #e0e0e0;
+      --border-color: #2c2c2c;
+      --highlight: #4da6ff;
+      --hover-bg: #1f1f1f;
+    }
+  }
+
   .pub-table {
     width: 100%;
     border-collapse: collapse;
     font-family: 'Segoe UI', sans-serif;
     font-size: 15px;
     line-height: 1.6;
+    color: var(--text-color);
+    background-color: var(--bg-color);
     table-layout: fixed;
   }
 
   .pub-table thead {
-    background-color: #f2f2f2;
+    background-color: var(--hover-bg);
   }
 
   .pub-table th, .pub-table td {
-    text-align: left;
     padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid var(--border-color);
     vertical-align: top;
   }
 
-  .pub-table tr {
-    transition: background-color 0.2s ease;
-    border-bottom: 1px solid #e0e0e0;
-  }
-
   .pub-table tr:hover {
-    background-color: #f9f9f9;
+    background-color: var(--hover-bg);
+    transition: background-color 0.3s;
   }
 
   .pub-image {
@@ -40,27 +57,25 @@ Below is a list of my publications.
     height: 120px;
     object-fit: cover;
     border-radius: 6px;
-    border: 1px solid #ddd;
+    border: 1px solid var(--border-color);
+    background-color: #fff;
   }
 
   details summary {
     cursor: pointer;
-    color: #2980b9;
+    color: var(--highlight);
+    font-weight: 500;
     margin-top: 6px;
   }
 
-  details[open] summary {
-    margin-bottom: 6px;
-  }
-
   .pub-link a {
-    color: #2c3e50;
+    color: var(--highlight);
     text-decoration: none;
     font-weight: 500;
   }
 
   .pub-link a:hover {
-    color: #2980b9;
+    text-decoration: underline;
   }
 
   @media (max-width: 768px) {
