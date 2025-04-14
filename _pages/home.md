@@ -115,8 +115,8 @@ permalink: /
       </p>
     </div>
   </div>
+  If you're looking for someone who blends research expertise with real-world application — let’s connect!
 </div> 
- <p> If you're looking for someone who blends research expertise with real-world application — let’s connect! </p>
  <hr style="margin: 15px 0; border: none; border-top: 1px solid #d5d8dc;">
 <div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 20px; line-height: 1.7;">
   <h2 style="text-align: left; margin-bottom: 21px;">📰 News</h2>
