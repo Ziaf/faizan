@@ -108,10 +108,10 @@ permalink: /
   <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; justify-content: space-between;">
     <div>
       <h3 style="margin-top: 0;">🎓 Education</h3>
-        I hold a <strong>B.Tech</strong> in Computer Engineering and an <strong>M.Tech</strong> in Computer Science and Engineering (Software Engineering specialization) — both from Zakir Husain College of Engineering & Technology (ZHCET), Aligarh Muslim University (AMU).
+        I hold a <strong>B.Tech</strong> in Computer Engineering and an <strong>M.Tech</strong> in Computer Science and Engineering (Software Engineering specialization) — both from Zakir Husain College of Engineering & Technology (ZHCET), Aligarh Muslim University (AMU).<br> 
+  If you're looking for someone who blends research expertise with real-world application — let’s connect!
     </div>
   </div>
-  If you're looking for someone who blends research expertise with real-world application — let’s connect!
 </div> 
  <hr style="margin: 15px 0; border: none; border-top: 1px solid #d5d8dc;">
 <div style="max-width: 800px; margin: 50px auto; font-family: 'Segoe UI', sans-serif; font-size: 20px; line-height: 1.7;">
