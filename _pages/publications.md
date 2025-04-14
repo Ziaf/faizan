@@ -59,7 +59,7 @@ permalink: /publications/
     border-collapse: separate;
     border-spacing: 0;
     font-family: 'Segoe UI', sans-serif;
-    font-size: 15px;
+    font-size: 12px;
     line-height: 1.6;
     color: var(--text-color);
     background-color: var(--bg-color);
