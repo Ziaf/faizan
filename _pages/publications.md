@@ -6,23 +6,86 @@ permalink: /publications/
 
 
 Below is a list of my publications.
- <div style="max-width: 100%; overflow-x: auto; margin: 15px 0;"> 
- <!-- <div style="max-height: 1000px; overflow-y: auto; border: 1px solid #ecf0f1; border-radius: 8px;"> -->
-  <table style="width: 100%; table-layout: fixed; border-collapse: collapse; font-size: 15px; line-height: 1.6;">
-  <thead>
-<!--     <tr style="background-color: #f8f9fa;"> -->
-    <tr>
-<!--       <th style="text-align: center; white-space: nowrap; padding: 15px;">Date</th>
-      <th style="text-align: center; padding: 15px;">Visual Insight</th>
-      <th style="text-align: center; padding: 15px;">Citation</th>
-      <th style="text-align: center; white-space: nowrap; padding: 15px;">Link</th> -->
-        <th style="width: 8%; text-align: left; padding: 10px;">Date</th>
-        <th style="width: 20%; text-align: left; padding: 10px;">Visual Insight</th>
-        <th style="width: 60%; text-align: left; padding: 10px;">Paper</th>
-        <th style="width: 12%; text-align: left; padding: 10px;">Link</th>
-    </tr>
-  </thead>
-  <tbody>
+<style>
+  .pub-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 15px;
+    line-height: 1.6;
+    table-layout: fixed;
+  }
+
+  .pub-table thead {
+    background-color: #f2f2f2;
+  }
+
+  .pub-table th, .pub-table td {
+    text-align: left;
+    padding: 12px;
+    vertical-align: top;
+  }
+
+  .pub-table tr {
+    transition: background-color 0.2s ease;
+    border-bottom: 1px solid #e0e0e0;
+  }
+
+  .pub-table tr:hover {
+    background-color: #f9f9f9;
+  }
+
+  .pub-image {
+    width: 180px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+  }
+
+  details summary {
+    cursor: pointer;
+    color: #2980b9;
+    margin-top: 6px;
+  }
+
+  details[open] summary {
+    margin-bottom: 6px;
+  }
+
+  .pub-link a {
+    color: #2c3e50;
+    text-decoration: none;
+    font-weight: 500;
+  }
+
+  .pub-link a:hover {
+    color: #2980b9;
+  }
+
+  @media (max-width: 768px) {
+    .pub-image {
+      width: 100%;
+      height: auto;
+    }
+
+    .pub-table td, .pub-table th {
+      padding: 10px 8px;
+    }
+  }
+</style>
+
+<div style="overflow-x: auto;">
+  <table class="pub-table">
+    <thead>
+      <tr>
+        <th style="width: 8%;">Date</th>
+        <th style="width: 20%;">Visual Insight</th>
+        <th style="width: 60%;">Paper</th>
+        <th style="width: 12%;">Link</th>
+      </tr>
+    </thead>
+    <tbody>
     <tr>
       <td style="white-space: nowrap; padding: 10px;">2025</td>
       <td><img src="assets/publications/mot_diag.png" style="border-radius:0px;width:200px;height:150px;object-fit: contain;"></td>
@@ -116,7 +179,7 @@ Deep learning models have shown considerable promise in the classification of sk
       </td>
       <td><a href="https://ieeexplore.ieee.org/document/10191975" target="_blank"><span><i class="fas fa-scroll"></i>Paper</span></a></td>
     </tr>
-  </tbody>
-</table>
+</tbody>
+  </table>
 </div>
 
