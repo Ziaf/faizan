@@ -3,8 +3,6 @@ layout: single
 title: "Publications"
 permalink: /publications/
 ---
-
-
 <style>
   :root {
     --bg-color: #ffffff;
@@ -125,10 +123,8 @@ permalink: /publications/
     }
   }
 </style>
-
 <div class="pub-section">
   <div class="pub-header">
-    <h3>📚 Publications</h3>
     <input type="text" id="pubSearch" class="pub-search" placeholder="Search by keyword...">
   </div>
   <div class="pub-table-wrapper">
