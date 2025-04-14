@@ -24,15 +24,34 @@ permalink: /publications/
     }
   }
 
-  .pub-table-wrapper {
-    max-height: 900px;
-    overflow-y: auto;
-    overflow-x: auto;
+  .pub-section {
     padding: 24px;
     background-color: var(--bg-color);
     border: 1px solid var(--border-color);
     border-radius: 12px;
-    margin-top: 20px;
+    margin-top: 30px;
+  }
+
+  .pub-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 16px;
+  }
+
+  .pub-search {
+    padding: 6px 12px;
+    font-size: 14px;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+  }
+
+  .pub-table-wrapper {
+    max-height: 900px;
+    overflow-y: auto;
+    overflow-x: auto;
   }
 
   .pub-table {
@@ -103,18 +122,21 @@ permalink: /publications/
   }
 </style>
 
-<p>Below is a list of my publications.</p>
-<div class="pub-table-wrapper">
-  <table class="pub-table">
-    <thead>
-      <tr>
-        <th style="width: 8%;">Date</th>
-        <th style="width: 20%;">Visual Insight</th>
-        <th style="width: 60%;">Paper</th>
-        <th style="width: 12%;">Link</th>
-      </tr>
-    </thead>
-    <tbody>
+<div class="pub-section">
+  <div class="pub-header">
+    <input type="text" id="pubSearch" class="pub-search" placeholder="Search by keyword...">
+  </div>
+  <div class="pub-table-wrapper">
+    <table class="pub-table" id="pubTable">
+      <thead>
+        <tr>
+          <th style="width: 8%;">Date</th>
+          <th style="width: 20%;">Visual Insight</th>
+          <th style="width: 60%;">Paper</th>
+          <th style="width: 12%;">Link</th>
+        </tr>
+      </thead>
+      <tbody>
     <tr>
       <td style="white-space: nowrap; padding: 10px;">2025</td>
       <td><img src="assets/publications/mot_diag.png" alt="Thumbnail" class="pub-image"></td>
@@ -208,8 +230,19 @@ Deep learning models have shown considerable promise in the classification of sk
       </td>
       <td><a href="https://ieeexplore.ieee.org/document/10191975" target="_blank"><span><i class="fas fa-scroll"></i>Paper</span></a></td>
     </tr>
-  </tbody>
-  </table>
+ </tbody>
+    </table>
+  </div>
 </div>
+
+<script>
+  document.getElementById('pubSearch').addEventListener('input', function () {
+    const filter = this.value.toLowerCase();
+    const rows = document.querySelectorAll('#pubTable tbody tr');
+    rows.forEach(row => {
+      row.style.display = row.innerText.toLowerCase().includes(filter) ? '' : 'none';
+    });
+  });
+</script>
 
 
