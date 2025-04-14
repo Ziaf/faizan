@@ -132,8 +132,8 @@ permalink: /publications/
   </div>
   <div class="pub-table-wrapper">
     <table class="pub-table" id="pubTable">
-      <thead style="position: sticky; top: 0; background-color: var(--hover-bg);">
-        <tr>
+      <thead>
+        <tr style="position: sticky; top: 0; background-color: var(--hover-bg); z-index: 2;">
           <th style="width: 8%;">Date</th>
           <th style="width: 20%;">Visual Insight</th>
           <th style="width: 60%;">Paper</th>
