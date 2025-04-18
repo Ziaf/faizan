@@ -234,7 +234,7 @@ permalink: /
   }
   
   .news-table th, .news-table td {
-    padding: 15px 20px;
+/*     padding: 15px 20px; */
     text-align: left;
     border-bottom: 1px solid var(--border-color);
   }
