@@ -213,7 +213,7 @@ permalink: /
     color: var(--primary-color);
   }
   
-  /* News Section */
+  /*  Section */
   .news-container {
     max-height: 600px;
     overflow-y: auto;
@@ -436,7 +436,7 @@ permalink: /
     }
     
     .news-container {
-      overflow-x: auto;
+      overflow-x: visible;
     }
     
     .publication-links {
