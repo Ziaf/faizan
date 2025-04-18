@@ -6,7 +6,7 @@ permalink: /
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 <style>
-   /*:root {
+   :root {
     --primary-color: #1a73e8;
     --secondary-color: #34495e;
     --accent-color: #8e44ad;
@@ -17,7 +17,7 @@ permalink: /
     --border-color: #eaecef;
     --card-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     --transition-speed: 0.3s;
-  }*/
+  }
   
   body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
