@@ -14,77 +14,94 @@ html {
   font-size: 16px !important;
 }
 
-/* Override any default max-width limitations */
-.initial-content,
-.page,
-.splash .feature__wrapper,
-#main,
-.masthead__inner-wrap,
-.page__footer-follow,
-.page__footer-copyright {
-  max-width: 100% !important;
+/* === Full-width layout overrides === */
+/* Target the main content wrapper */
+.page {
   width: 100% !important;
+  max-width: 100% !important;
+  padding: 0 !important;
 }
 
-/* Make layout responsive to screen size - full width */
-.layout--single,
-.layout--home,
-.page__container,
-.page,
+/* Override the theme's default container limitations */
+.page__content,
 .page__inner-wrap,
-.page__content,
-.archive {
+.initial-content,
+.archive,
+#main {
   max-width: 100% !important;
   width: 100% !important;
-  padding: 0 1rem;
-  margin: 0 auto;
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+  padding-left: 3% !important;
+  padding-right: 3% !important;
 }
 
-/* Container classes that might restrict width */
-.container,
-.wrapper,
-.inner-wrap,
-.greedy-nav,
-.page__content,
-.archive__item {
-  max-width: 100% !important;
+/* Ensure the masthead spans full width */
+.masthead {
   width: 100% !important;
+  max-width: 100% !important;
 }
 
-/* Screen size specific adjustments */
-@media (min-width: 480px) {
-  .layout--single,
-  .layout--home,
-  .page__container,
-  .page,
-  .page__inner-wrap,
-  .page__content,
+.masthead__inner-wrap {
+  max-width: 100% !important;
+  width: 94% !important;
+  padding-left: 3% !important;
+  padding-right: 3% !important;
+}
+
+/* Override any default fixed widths in the theme */
+.page__related,
+.page__footer,
+.breadcrumbs {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+/* Remove any float & width settings that might limit containers */
+@media (min-width: 64em) {
+  .page {
+    float: none !important;
+    width: 100% !important;
+    padding-right: 0 !important;
+  }
+  
+  .sidebar {
+    float: none !important;
+    width: 100% !important;
+    margin-right: 0 !important;
+  }
+  
   .archive {
-    padding: 0 1.5rem;
+    float: none !important;
+    width: 100% !important;
+    padding-right: 0 !important;
   }
 }
 
-@media (min-width: 768px) {
-  .layout--single,
-  .layout--home,
-  .page__container,
-  .page,
-  .page__inner-wrap,
-  .page__content,
-  .archive {
-    padding: 0 2rem;
-  }
+/* Force the grid items to expand */
+.grid__item {
+  width: 100% !important;
 }
 
-@media (min-width: 1024px) {
-  .layout--single,
-  .layout--home,
-  .page__container,
-  .page,
-  .page__inner-wrap,
-  .page__content,
-  .archive {
-    padding: 0 3rem;
+/* Main container overrides at various breakpoints */
+@media (min-width: 80em) {
+  .grid__item,
+  .archive__item,
+  .feature__item {
+    max-width: 100% !important;
+  }
+  
+  .feature__wrapper {
+    max-width: 100% !important;
+  }
+  
+  .page__related {
+    max-width: 100% !important;
+  }
+  
+  .page__content {
+    padding-left: 3% !important;
+    padding-right: 3% !important;
   }
 }
 
