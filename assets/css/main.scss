@@ -84,6 +84,79 @@ html {
       font-size: 16px; // change to whatever
     }
   }
+/* Override any default max-width limitations */
+.initial-content,
+.page,
+.splash .feature__wrapper,
+#main,
+.masthead__inner-wrap,
+.page__footer-follow,
+.page__footer-copyright {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+/* Make layout responsive to screen size - full width */
+.layout--single,
+.layout--home,
+.page__container,
+.page,
+.page__inner-wrap,
+.page__content,
+.archive {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding: 0 1rem;
+  margin: 0 auto;
+}
+
+/* Container classes that might restrict width */
+.container,
+.wrapper,
+.inner-wrap,
+.greedy-nav,
+.page__content,
+.archive__item {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+/* Screen size specific adjustments */
+@media (min-width: 480px) {
+  .layout--single,
+  .layout--home,
+  .page__container,
+  .page,
+  .page__inner-wrap,
+  .page__content,
+  .archive {
+    padding: 0 1.5rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .layout--single,
+  .layout--home,
+  .page__container,
+  .page,
+  .page__inner-wrap,
+  .page__content,
+  .archive {
+    padding: 0 2rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .layout--single,
+  .layout--home,
+  .page__container,
+  .page,
+  .page__inner-wrap,
+  .page__content,
+  .archive {
+    padding: 0 3rem;
+  }
+}
 
 // 2023-12-12: Still don't really understand scss... oh well
 // 2022-05-17: This changes the code box. Do you wonder how you can find this out yourself?
