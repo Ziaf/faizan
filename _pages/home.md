@@ -474,7 +474,6 @@ permalink: /
           <div id="random-quote"></div>
         </div>
       </div>
-      
       <div class="profile-image">
         <img src="assets/images/avtar.jpg" alt="Faizanuddin Ansari">
       </div>
