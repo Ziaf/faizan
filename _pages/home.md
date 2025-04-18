@@ -6,7 +6,7 @@ permalink: /
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
 <style>
-  :root {
+   /*:root {
     --primary-color: #1a73e8;
     --secondary-color: #34495e;
     --accent-color: #8e44ad;
@@ -17,26 +17,26 @@ permalink: /
     --border-color: #eaecef;
     --card-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     --transition-speed: 0.3s;
-  }
+  }*/
   
-  body {
+  /*body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     color: var(--text-color);
     background: #fff;
     overflow-x: hidden;
-  }
+  }*/
   
- .container {
+  /*.container {
   max-width: 100% !important;
   width: 100% !important;
   padding-left: 3% !important;
   padding-right: 3% !important;
   box-sizing: border-box !important;
-}
+}*/
   
   /* Header Styles */
-  .header-section {
+  /* .header-section {
     background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
     padding: 40px 0;
     border-bottom: 1px solid var(--border-color);
@@ -50,7 +50,7 @@ permalink: /
     align-items: center;
     justify-content: space-between;
     gap: 40px;
-  }
+  } */
   
   .profile-info {
     flex: 2;
