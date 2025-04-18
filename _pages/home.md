@@ -476,7 +476,7 @@ permalink: /
       </div>
       
       <div class="profile-image">
-        <img src="assets/images/avtar.png" alt="Faizanuddin Ansari">
+        <img src="assets/images/avtar.jpg" alt="Faizanuddin Ansari">
       </div>
     </div>
   </div>
