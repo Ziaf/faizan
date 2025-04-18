@@ -27,11 +27,13 @@ permalink: /
     overflow-x: hidden;
   }
   
-  .container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 20px;
-  }
+ .container {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding-left: 3% !important;
+  padding-right: 3% !important;
+  box-sizing: border-box !important;
+}
   
   /* Header Styles */
   .header-section {
@@ -455,185 +457,6 @@ permalink: /
 .section:last-child {
   margin-bottom: 60px;
 }
-
-
-/* Original CSS remains unchanged */
-
-/* === Full Width Overrides === */
-/* Override ALL width limitations in theme and template */
-/*body,
-.initial-content,
-#main,
-.page,
-.splash,
-.archive,
-.archive__item,
-.masthead__inner-wrap,
-.greedy-nav,
-.page__related,
-.page__content,
-.page__inner-wrap,
-.page__footer,
-.pagination,
-.layout--single,
-.layout--splash,
-.layout--home,
-.layout--archive,
-.layout--categories,
-.layout--tags,
-.layout--posts,
-.layout--search,
-.toc,
-.sidebar,
-.author__avatar,
-.author__content,
-.author__urls-wrapper,
-.feature__wrapper,
-.feature__item,
-.post-grid,
-header, */
-footer {
-  max-width: 100% !important;
-  width: 100% !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-}
-
-/* Override container width */
-.container {
-  max-width: 100% !important;
-  width: 100% !important;
-  padding-left: 3% !important;
-  padding-right: 3% !important;
-  box-sizing: border-box !important;
-}
-
-/* Make header content full width */
-.header-section {
-  width: 100% !important;
-  max-width: 100% !important;
-}
-
-.header-content {
-  width: 100% !important;
-  max-width: 100% !important;
-}
-
-/* Make content sections fill width */
-.section,
-.grid-container,
-.card,
-.news-container,
-.publication-item,
-.skills-container {
-  width: 100% !important;
-  max-width: 100% !important;
-}
-
-/* Full width grid items */
-.grid-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)) !important;
-  width: 100% !important;
-}
-
-/* Reset any float properties that might affect layout */
-.layout--single .page,
-.layout--single #main,
-.layout--home .page,
-.layout--archive .page,
-.layout--categories .page,
-.layout--tags .page,
-.archive__item,
-.archive__item-teaser {
-  float: none !important;
-}
-
-/* Fix for Jekyll navigation and header */
-.masthead,
-.masthead__menu,
-.masthead__menu-item,
-.greedy-nav {
-  width: 100% !important;
-  max-width: 100% !important;
-}
-
-/* Override specific breakpoints */
-@media (min-width: 64em) {
-  .layout--single .page,
-  .layout--archive .page,
-  #main,
-  .archive,
-  .archive__item-teaser {
-    float: none !important;
-    width: 100% !important;
-    padding-right: 0 !important;
-  }
-  
-  .sidebar {
-    float: none !important;
-    width: 100% !important;
-    margin-right: 0 !important;
-  }
-  
-  .masthead__inner-wrap {
-    max-width: 100% !important;
-    padding-left: 3% !important;
-    padding-right: 3% !important;
-  }
-  
-  .page__related {
-    float: none !important;
-    width: 100% !important;
-  }
-}
-
-@media (min-width: 80em) {
-  .layout--single .page,
-  #main,
-  .archive__item-teaser {
-    width: 100% !important;
-    padding-right: 0 !important;
-  }
-  
-  /* Ensure container remains full width at large screens */
-  .container {
-    max-width: 100% !important;
-    padding-left: 3% !important;
-    padding-right: 3% !important;
-  }
-}
-
-/* Responsive adjustments */
-@media (max-width: 992px) {
-  .container {
-    padding-left: 2% !important;
-    padding-right: 2% !important;
-  }
-}
-
-@media (max-width: 768px) {
-  .container {
-    padding-left: 1.5% !important;
-    padding-right: 1.5% !important;
-  }
-}
-
-/* Override Jekyll defaults */
-.layout--single .page__content,
-.layout--home .page__content,
-.page__inner-wrap {
-  width: 100% !important;
-  max-width: 100% !important;
-  float: none !important;
-}
-
-/* Ensure no content overflow */
-body {
-  overflow-x: hidden !important;
-  max-width: 100vw !important;
-}
-
 </style>
 
 <!-- Header Section -->
