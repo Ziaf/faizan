@@ -651,11 +651,11 @@ permalink: /
 </div>
 
 <!-- Footer -->
-<footer>
+<!-- <footer>
   <div class="container">
     <p>&copy; 2025 Faizanuddin Ansari. All rights reserved.</p>
   </div>
-</footer>
+</footer>  -->
 
 <!-- Scripts -->
 <script>
