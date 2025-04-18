@@ -376,14 +376,14 @@ permalink: /
   }
   
   /* Footer */
-  footer {
+ /* footer {
     background-color: var(--light-bg);
     padding: 30px 0;
     text-align: center;
     color: var(--light-text);
     border-top: 1px solid var(--border-color);
     margin-top: 60px;
-  }
+  }*/
   
   /* Animation for elements */
   .animate-up {
@@ -653,7 +653,7 @@ permalink: /
 </div>
 
 <!-- Footer -->
- <footer> <div class="container"><p>&copy; 2025 Faizanuddin Ansari. All rights reserved.</p> </div> </footer> 
+ <!-- <footer> <div class="container"><p>&copy; 2025 Faizanuddin Ansari. All rights reserved.</p> </div> </footer> -->
 
 <!-- Scripts -->
 <script>
