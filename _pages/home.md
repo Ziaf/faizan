@@ -146,13 +146,8 @@ permalink: /
   }
   
   /* Main Content */
-  /*.section {
-    margin-bottom: 60px;
-  }*/
-
-  /* Main Content */
   .section {
-    margin-bottom: 0px;
+    margin-bottom: 60px;
   }
   
   .section-title {
