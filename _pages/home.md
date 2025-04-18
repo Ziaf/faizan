@@ -215,7 +215,7 @@ permalink: /
   
   /* News Section */
   .news-container {
-    max-height: 500px;
+    max-height: 600px;
     overflow-y: auto;
     border: 1px solid var(--border-color);
     border-radius: 10px;
