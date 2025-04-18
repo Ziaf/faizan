@@ -35,8 +35,8 @@ permalink: /
   box-sizing: border-box !important;
 }*/
   .container {
-  max-width: 80% !important;
-  width: 80% !important;
+  max-width: 100% !important;
+  width: 100% !important;
   padding-left: 3% !important;
   padding-right: 3% !important;
   box-sizing: border-box !important;
