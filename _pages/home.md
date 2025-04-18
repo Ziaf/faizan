@@ -666,7 +666,7 @@ permalink: /
 </div>
 
 <!-- Footer -->
-<!-- <footer> <div class="container"><p>&copy; 2025 Faizanuddin Ansari. All rights reserved.</p> </div> </footer>  -->
+ <footer> <div class="container"><p>&copy; 2025 Faizanuddin Ansari. All rights reserved.</p> </div> </footer> 
 
 <!-- Scripts -->
 <script>
