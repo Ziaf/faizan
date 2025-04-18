@@ -14,52 +14,88 @@ html {
   font-size: 16px !important;
 }
 
-/* === Full-width layout overrides === */
-/* Target the main content wrapper */
-.page {
-  width: 100% !important;
-  max-width: 100% !important;
-  padding: 0 !important;
-}
-
-/* Override the theme's default container limitations */
+/* Override ALL width limitations in the theme */
+.initial-content,
+#main,
+.page,
+.splash,
+.archive,
+.archive__item,
+.masthead__inner-wrap,
+.greedy-nav,
+.page__related,
 .page__content,
 .page__inner-wrap,
-.initial-content,
-.archive,
-#main {
-  max-width: 100% !important;
-  width: 100% !important;
-  margin-left: 0 !important;
-  margin-right: 0 !important;
-  padding-left: 3% !important;
-  padding-right: 3% !important;
-}
-
-/* Ensure the masthead spans full width */
-.masthead {
-  width: 100% !important;
-  max-width: 100% !important;
-}
-
-.masthead__inner-wrap {
-  max-width: 100% !important;
-  width: 94% !important;
-  padding-left: 3% !important;
-  padding-right: 3% !important;
-}
-
-/* Override any default fixed widths in the theme */
-.page__related,
 .page__footer,
-.breadcrumbs {
+.pagination,
+.layout--single,
+.layout--splash,
+.layout--home,
+.layout--archive,
+.layout--categories,
+.layout--tags,
+.layout--posts,
+.layout--search,
+.toc,
+.sidebar,
+.author__avatar,
+.author__content,
+.author__urls-wrapper,
+.feature__wrapper,
+.feature__item,
+.post-grid {
+  max-width: 100% !important;
+  width: 100% !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* Reset any float properties that might affect layout */
+.layout--single .page,
+.layout--single #main,
+.layout--home .page,
+.layout--archive .page,
+.layout--categories .page,
+.layout--tags .page,
+.archive__item,
+.archive__item-teaser {
+  float: none !important;
+}
+
+/* Force full-width grid items */
+.grid__item,
+.archive__item,
+.feature__item {
   width: 100% !important;
   max-width: 100% !important;
 }
 
-/* Remove any float & width settings that might limit containers */
+/* Override container class in the home page HTML */
+div.container {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+/* Handle Jekyll navigation and header */
+.masthead,
+.masthead__menu,
+.masthead__menu-item,
+.greedy-nav {
+  width: 100% !important;
+  max-width: 100% !important;
+}
+
+/* Override specific breakpoints that might be limiting width */
 @media (min-width: 64em) {
-  .page {
+  .layout--single .page,
+  .layout--archive .page,
+  #main,
+  .archive,
+  .archive__item-teaser {
     float: none !important;
     width: 100% !important;
     padding-right: 0 !important;
@@ -71,38 +107,42 @@ html {
     margin-right: 0 !important;
   }
   
-  .archive {
-    float: none !important;
-    width: 100% !important;
-    padding-right: 0 !important;
-  }
-}
-
-/* Force the grid items to expand */
-.grid__item {
-  width: 100% !important;
-}
-
-/* Main container overrides at various breakpoints */
-@media (min-width: 80em) {
-  .grid__item,
-  .archive__item,
-  .feature__item {
+  .masthead__inner-wrap {
     max-width: 100% !important;
-  }
-  
-  .feature__wrapper {
-    max-width: 100% !important;
+    padding-left: 1em !important;
+    padding-right: 1em !important;
   }
   
   .page__related {
-    max-width: 100% !important;
+    float: none !important;
+    width: 100% !important;
   }
   
-  .page__content {
-    padding-left: 3% !important;
-    padding-right: 3% !important;
+  /* Override default container width */
+  .container {
+    max-width: 100% !important;
+    padding: 0 !important;
   }
+}
+
+@media (min-width: 80em) {
+  .layout--single .page,
+  #main,
+  .archive__item-teaser {
+    width: 100% !important;
+    padding-right: 0 !important;
+  }
+  
+  /* Override default container width at large screens */
+  .container {
+    max-width: 100% !important;
+    padding: 0 !important;
+  }
+}
+
+/* Ensure content has some padding */
+.page__content {
+  padding: 0 2% !important;
 }
 
 /* Hide the "Follow:" label above footer icons */
@@ -126,4 +166,12 @@ html {
   font-size: 10px !important;
   color: #aaa !important;
   text-align: center !important;
+}
+
+/* Custom fix for the header-section container */
+.header-section .container,
+.container {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding: 0 !important;
 }
