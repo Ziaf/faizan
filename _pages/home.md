@@ -146,8 +146,13 @@ permalink: /
   }
   
   /* Main Content */
-  .section {
+  /*.section {
     margin-bottom: 60px;
+  }*/
+
+  /* Main Content */
+  .section {
+    margin-bottom: 0px;
   }
   
   .section-title {
@@ -651,11 +656,7 @@ permalink: /
 </div>
 
 <!-- Footer -->
-<!-- <footer>
-  <div class="container">
-    <p>&copy; 2025 Faizanuddin Ansari. All rights reserved.</p>
-  </div>
-</footer>  -->
+<!-- <footer> <div class="container"><p>&copy; 2025 Faizanuddin Ansari. All rights reserved.</p> </div> </footer>  -->
 
 <!-- Scripts -->
 <script>
