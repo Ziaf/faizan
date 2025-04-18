@@ -435,9 +435,9 @@ permalink: /
       font-size: 1.6rem;
     }
     
-    .news-container {
+/*     .news-container {
       overflow-x: auto;
-    }
+    } */
     
     .publication-links {
       flex-direction: column;
