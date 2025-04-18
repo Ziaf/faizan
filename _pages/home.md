@@ -461,7 +461,7 @@ permalink: /
 
 /* === Full Width Overrides === */
 /* Override ALL width limitations in theme and template */
-body,
+/*body,
 .initial-content,
 #main,
 .page,
@@ -491,7 +491,7 @@ body,
 .feature__wrapper,
 .feature__item,
 .post-grid,
-header,
+header, */
 footer {
   max-width: 100% !important;
   width: 100% !important;
