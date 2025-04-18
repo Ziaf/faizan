@@ -218,7 +218,6 @@ permalink: /
   .news-table {
     width: 100%;
     border-collapse: collapse;
-    min-width: 600px;
   }
   
   .news-table thead {
