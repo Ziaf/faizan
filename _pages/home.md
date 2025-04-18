@@ -508,7 +508,7 @@ permalink: /
   <!-- News Section -->
   <section class="section animate-up">
     <h2 class="section-title">Latest News</h2>
-<!--     <div class="news-container"> -->
+    <div class="news-container">
       <table class="news-table">
         <thead>
           <tr>
@@ -543,7 +543,7 @@ permalink: /
           </tr>
         </tbody>
       </table>
-<!--     </div> -->
+    </div>
   </section>
   
   <!-- Publications Section -->
