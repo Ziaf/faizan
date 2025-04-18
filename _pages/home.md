@@ -37,8 +37,8 @@ permalink: /
   .container {
   max-width: 100% !important;
   width: 100% !important;
-  padding-left: 3% !important;
-  padding-right: 3% !important;
+  padding-left: 10% !important;
+  padding-right: 10% !important;
   box-sizing: border-box !important;
 }
   
