@@ -19,13 +19,13 @@ permalink: /
     --transition-speed: 0.3s;
   }*/
   
-  /*body {
+  body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     color: var(--text-color);
     background: #fff;
     overflow-x: hidden;
-  }*/
+  }
   
   /*.container {
   max-width: 100% !important;
@@ -36,7 +36,7 @@ permalink: /
 }*/
   
   /* Header Styles */
-  /* .header-section {
+  .header-section {
     background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
     padding: 40px 0;
     border-bottom: 1px solid var(--border-color);
@@ -50,7 +50,7 @@ permalink: /
     align-items: center;
     justify-content: space-between;
     gap: 40px;
-  } */
+  } 
   
   .profile-info {
     flex: 2;
