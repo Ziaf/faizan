@@ -440,6 +440,21 @@ permalink: /
       width: fit-content;
     }
   }
+
+  /* Hide the default Jekyll footer */
+.page__footer {
+  display: none !important;
+}
+
+/* Add proper spacing to the bottom of the page */
+.container {
+  margin-bottom: 50px;
+}
+
+/* Ensure proper spacing after the last section */
+.section:last-child {
+  margin-bottom: 60px;
+}
 </style>
 
 <!-- Header Section -->
