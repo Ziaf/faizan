@@ -27,13 +27,20 @@ permalink: /
     overflow-x: hidden;
   }
   
+  /*.container {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding-left: 3% !important;
+  padding-right: 3% !important;
+  box-sizing: border-box !important;
+}*/
   .container {
-    max-width: 100% !important;
-    width: 100% !important;
-    padding-left: 10% !important;
-    padding-right: 10% !important;
-    box-sizing: border-box !important;
-  }
+  max-width: 100% !important;
+  width: 100% !important;
+  padding-left: 10% !important;
+  padding-right: 10% !important;
+  box-sizing: border-box !important;
+}
   
   /* Header Styles */
   .header-section {
@@ -206,18 +213,18 @@ permalink: /
     color: var(--primary-color);
   }
   
-  /* News Section - Updated Styling */
+  /* News Section */
   .news-container {
     max-height: 600px;
     overflow-y: auto;
+    border: 1px solid var(--border-color);
     border-radius: 10px;
-    background-color: white;
+    box-shadow: var(--card-shadow);
   }
   
   .news-table {
     width: 100%;
-    border-collapse: separate;
-    border-spacing: 0;
+    border-collapse: collapse;
   }
   
   .news-table thead {
@@ -226,57 +233,24 @@ permalink: /
     z-index: 1;
   }
   
-  .news-table th {
-    background-color: #f8f9fa;
-    color: var(--secondary-color);
-    font-weight: 600;
+  .news-table th, .news-table td {
     padding: 15px 20px;
     text-align: left;
-    border-bottom: 2px solid var(--border-color);
-  }
-  
-  .news-table td {
-    padding: 20px;
-    text-align: left;
     border-bottom: 1px solid var(--border-color);
-    vertical-align: top;
   }
   
-  .news-table tr:last-child td {
-    border-bottom: none;
+  .news-table th {
+    background-color: var(--light-bg);
+    color: var(--secondary-color);
+    font-weight: 600;
+  }
+  
+  .news-table tr:nth-child(even) {
+    background-color: #f9f9f9;
   }
   
   .news-table tr:hover {
-    background-color: rgba(26, 115, 232, 0.03);
-  }
-  
-  .news-date {
-    font-weight: 500;
-    color: var(--secondary-color);
-  }
-  
-  .news-content a {
-    color: var(--accent-color);
-    text-decoration: none;
-    font-weight: 500;
-    transition: all var(--transition-speed);
-  }
-  
-  .news-content a:hover {
-    color: var(--primary-color);
-    text-decoration: underline;
-  }
-  
-  .view-paper-link {
-    color: var(--primary-color) !important;
-    font-weight: 500;
-    display: inline-block;
-    margin-left: 5px;
-    transition: all var(--transition-speed);
-  }
-  
-  .view-paper-link:hover {
-    transform: translateX(3px);
+    background-color: rgba(26, 115, 232, 0.05);
   }
   
   /* Publication Section */
@@ -408,6 +382,16 @@ permalink: /
     transform: translateY(-2px);
   }
   
+  /* Footer */
+ /* footer {
+    background-color: var(--light-bg);
+    padding: 30px 0;
+    text-align: center;
+    color: var(--light-text);
+    border-top: 1px solid var(--border-color);
+    margin-top: 60px;
+  }*/
+  
   /* Animation for elements */
   .animate-up {
     opacity: 0;
@@ -464,7 +448,8 @@ permalink: /
       width: fit-content;
     }
   }
-  </style>
+
+</style>
 
 <!-- Header Section -->
 <div class="header-section">
@@ -491,7 +476,7 @@ permalink: /
       </div>
       
       <div class="profile-image">
-        <img src="assets/images/avtar.jpg" alt="Faizanuddin Ansari">
+        <img src="assets/images/avtar.png" alt="Faizanuddin Ansari">
       </div>
     </div>
   </div>
@@ -520,46 +505,46 @@ permalink: /
     </div>
   </section>
   
-<!-- News Section -->
-    <section class="section animate-up">
-      <h2 class="section-title">Latest News</h2>
-      <div class="news-container">
-        <table class="news-table">
-          <thead>
-            <tr>
-              <th width="15%"><i class="far fa-calendar-alt"></i> Date</th>
-              <th><i class="far fa-newspaper"></i> News</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td class="news-date">May 2024</td>
-              <td class="news-content">
-                Presented my research (poster) at <strong>IEEE ISBI 2024</strong>, Athens, Greece.
-              </td>
-            </tr>
-            <tr>
-              <td class="news-date">May 2024</td>
-              <td class="news-content">
-                Our work <a href="https://ieeexplore.ieee.org/document/10555431" target="_blank">CCO: A Cluster Core-based Oversampling Technique for Improved Class-Imbalanced Learning</a> has been published in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297" target="_blank">IEEE TETCI</a>.
-              </td>
-            </tr>
-            <tr>
-              <td class="news-date">February 2024</td>
-              <td class="news-content">
-                (Poster) Paper on <strong>Mo2E: Mixture of Two Experts for Class-Imbalanced Learning from Medical Images</strong> accepted at <a href="https://biomedicalimaging.org/2024/" target="_blank">IEEE ISBI 2024</a>. <a href="https://ieeexplore.ieee.org/document/10635212" target="_blank" class="view-paper-link">[View Paper]</a>
-              </td>
-            </tr>
-            <tr>
-              <td class="news-date">April 2023</td>
-              <td class="news-content">
-                (Oral & Poster) Paper on <strong>Handling Class Imbalance by Estimating Minority Class Statistics</strong> accepted at <a href="https://2023.ijcnn.org/" target="_blank">IEEE IJCNN 2023</a>. <a href="https://ieeexplore.ieee.org/document/10191975/" target="_blank" class="view-paper-link">[View Paper]</a>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-      </div>
-    </section>
+  <!-- News Section -->
+  <section class="section animate-up">
+    <h2 class="section-title">Latest News</h2>
+    <div class="news-container">
+      <table class="news-table">
+        <thead>
+          <tr>
+            <th>📅 Date</th>
+            <th>🗞️ News</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>May 2024</strong></td>
+            <td>
+              Presented my research (poster) at <strong>IEEE ISBI 2024</strong>, Athens, Greece.
+            </td>
+          </tr>
+          <tr>
+            <td><strong>May 2024</strong></td>
+            <td>
+              Our work <a href="https://ieeexplore.ieee.org/document/10555431" target="_blank" style="color: var(--accent-color); text-decoration: none; font-weight: 500;">CCO: A Cluster Core-based Oversampling Technique for Improved Class-Imbalanced Learning</a> has been published in <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297" target="_blank" style="color: var(--primary-color); text-decoration: none; font-weight: 500;">IEEE TETCI</a>.
+            </td>
+          </tr>
+          <tr>
+            <td><strong>February 2024</strong></td>
+            <td>
+              (Poster) Paper on <strong>Mo2E: Mixture of Two Experts for Class-Imbalanced Learning from Medical Images</strong> accepted at <a href="https://biomedicalimaging.org/2024/" target="_blank" style="color: var(--accent-color); text-decoration: none;">IEEE ISBI 2024</a>. <a href="https://ieeexplore.ieee.org/document/10635212" target="_blank" style="color: var(--primary-color); text-decoration: none;">[View Paper]</a>
+            </td>
+          </tr>
+          <tr>
+            <td><strong>April 2023</strong></td>
+            <td>
+              (Oral & Poster) Paper on <strong>Handling Class Imbalance by Estimating Minority Class Statistics</strong> accepted at <a href="https://2023.ijcnn.org/" target="_blank" style="color: var(--accent-color); text-decoration: none;">IEEE IJCNN 2023</a>. <a href="https://ieeexplore.ieee.org/document/10191975/" target="_blank" style="color: var(--primary-color); text-decoration: none;">[View Paper]</a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
   
   <!-- Publications Section -->
   <section class="section animate-up">
