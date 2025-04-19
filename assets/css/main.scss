@@ -95,8 +95,56 @@ html {
 .archive {
   max-width: 100% !important;
   width: 100% !important;
-  padding: 0 2rem ;
+  padding: 0 1rem;
   margin: 0 auto;
+}
+
+/* Container classes that might restrict width */
+.container,
+.wrapper,
+.inner-wrap,
+.greedy-nav,
+.page__content,
+.archive__item {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+/* Screen size specific adjustments */
+@media (min-width: 480px) {
+  .layout--single,
+  .layout--home,
+  .page__container,
+  .page,
+  .page__inner-wrap,
+  .page__content,
+  .archive {
+    padding: 0 1.5rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .layout--single,
+  .layout--home,
+  .page__container,
+  .page,
+  .page__inner-wrap,
+  .page__content,
+  .archive {
+    padding: 0 2rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .layout--single,
+  .layout--home,
+  .page__container,
+  .page,
+  .page__inner-wrap,
+  .page__content,
+  .archive {
+    padding: 0 3rem;
+  }
 }
 
 // /* Container classes that might restrict width */
